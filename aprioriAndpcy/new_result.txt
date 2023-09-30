@@ -1,0 +1,1783 @@
+({'detergent', 'chewing gum'}) has confidence to whole milk
+({'semi-finished bread', 'long life bakery product'}) has confidence to whole milk
+({'cat food', 'oil'}) has confidence to whole milk
+({'dishes', 'butter milk'}) has confidence to other vegetables
+({'beef', 'butter milk'}) has confidence to yogurt
+({'waffles', 'onions'}) has confidence to other vegetables
+({'herbs', 'fruit/vegetable juice'}) has confidence to whole milk
+({'rolls/buns', 'pot plants'}) has confidence to whole milk
+({'misc. beverages', 'processed cheese'}) has confidence to soda
+({'whipped/sour cream', 'pip fruit'}) has confidence to other vegetables
+({'frozen vegetables', 'meat'}) has confidence to whole milk
+({'herbs', 'hygiene articles'}) has confidence to other vegetables
+({'detergent', 'canned fish'}) has confidence to other vegetables
+({'curd', 'soft cheese'}) has confidence to whole milk
+({'detergent', 'white bread'}) has confidence to whole milk
+({'frozen vegetables', 'pot plants'}) has confidence to whole milk
+({'hard cheese', 'butter'}) has confidence to other vegetables
+({'whipped/sour cream', 'butter milk'}) has confidence to whole milk
+({'butter', 'pickled vegetables'}) has confidence to whole milk
+({'cream cheese', 'onions'}) has confidence to other vegetables
+({'cat food', 'hygiene articles'}) has confidence to whole milk
+({'butter milk', 'meat'}) has confidence to other vegetables
+({'margarine', 'hamburger meat'}) has confidence to whole milk
+({'napkins', 'pork'}) has confidence to whole milk
+({'candy', 'beverages'}) has confidence to rolls/buns
+({'detergent', 'ham'}) has confidence to whole milk
+({'butter', 'whipped/sour cream'}) has confidence to whole milk
+({'baking powder', 'dessert'}) has confidence to whole milk
+({'canned beer', 'beverages'}) has confidence to yogurt
+({'domestic eggs', 'butter milk'}) has confidence to whole milk
+({'frankfurter', 'sliced cheese'}) has confidence to whole milk
+({'cream cheese', 'yogurt'}) has confidence to whole milk
+({'canned beer', 'onions'}) has confidence to other vegetables
+({'tropical fruit', 'long life bakery product'}) has confidence to whole milk
+({'whipped/sour cream', 'baking powder'}) has confidence to other vegetables
+({'flour', 'pip fruit'}) has confidence to whole milk
+({'candy', 'meat'}) has confidence to rolls/buns
+({'herbs', 'candy'}) has confidence to whole milk
+({'flour', 'butter milk'}) has confidence to other vegetables
+({'herbs', 'sausage'}) has confidence to other vegetables
+({'UHT-milk', 'misc. beverages'}) has confidence to soda
+({'hard cheese', 'sliced cheese'}) has confidence to whole milk
+({'butter milk', 'chicken'}) has confidence to whole milk
+({'cat food', 'fruit/vegetable juice'}) has confidence to yogurt
+({'ice cream', 'flour'}) has confidence to whole milk
+({'butter milk', 'pork'}) has confidence to other vegetables
+({'butter milk', 'candy'}) has confidence to whole milk
+({'oil', 'chicken'}) has confidence to whole milk
+({'root vegetables', 'processed cheese'}) has confidence to other vegetables
+({'domestic eggs', 'dishes'}) has confidence to whole milk
+({'soft cheese', 'fruit/vegetable juice'}) has confidence to whole milk
+({'frozen vegetables', 'citrus fruit'}) has confidence to whole milk
+({'pasta', 'soft cheese'}) has confidence to whole milk
+({'soft cheese', 'semi-finished bread'}) has confidence to whole milk
+({'whipped/sour cream', 'butter'}) has confidence to other vegetables
+({'UHT-milk', 'frozen meals'}) has confidence to other vegetables
+({'cream cheese', 'pip fruit'}) has confidence to whole milk
+({'whipped/sour cream', 'onions'}) has confidence to whole milk
+({'curd', 'pickled vegetables'}) has confidence to whole milk
+({'other vegetables', 'pip fruit'}) has confidence to whole milk
+({'white bread', 'butter milk'}) has confidence to yogurt
+({'oil', 'hamburger meat'}) has confidence to whole milk
+({'oil', 'processed cheese'}) has confidence to other vegetables
+({'canned fish', 'beverages'}) has confidence to other vegetables
+({'curd', 'salty snack'}) has confidence to whole milk
+({'frozen vegetables', 'tropical fruit'}) has confidence to whole milk
+({'hard cheese', 'processed cheese'}) has confidence to whole milk
+({'pickled vegetables', 'white bread'}) has confidence to whole milk
+({'white bread', 'oil'}) has confidence to whole milk
+({'whipped/sour cream', 'pork'}) has confidence to whole milk
+({'specialty chocolate', 'butter milk'}) has confidence to whole milk
+({'onions', 'processed cheese'}) has confidence to other vegetables
+({'cat food', 'frankfurter'}) has confidence to other vegetables
+({'hard cheese', 'whipped/sour cream'}) has confidence to whole milk
+({'sausage', 'specialty bar'}) has confidence to rolls/buns
+({'beef', 'candy'}) has confidence to whole milk
+({'flour', 'whipped/sour cream'}) has confidence to whole milk
+({'chocolate', 'brown bread'}) has confidence to whole milk
+({'semi-finished bread', 'brown bread'}) has confidence to whole milk
+({'baking powder', 'bottled beer'}) has confidence to whole milk
+({'dessert', 'chocolate'}) has confidence to whole milk
+({'hygiene articles', 'hamburger meat'}) has confidence to whole milk
+({'pickled vegetables', 'hamburger meat'}) has confidence to whole milk
+({'beef', 'processed cheese'}) has confidence to other vegetables
+({'newspapers', 'dishes'}) has confidence to whole milk
+({'semi-finished bread', 'sliced cheese'}) has confidence to whole milk
+({'frankfurter', 'soft cheese'}) has confidence to other vegetables
+({'waffles', 'beef'}) has confidence to root vegetables
+({'newspapers', 'processed cheese'}) has confidence to other vegetables
+({'grapes', 'butter milk'}) has confidence to other vegetables
+({'frankfurter', 'pip fruit'}) has confidence to other vegetables
+({'herbs', 'berries'}) has confidence to root vegetables
+({'frankfurter', 'pot plants'}) has confidence to whole milk
+({'napkins', 'soft cheese'}) has confidence to whole milk
+({'yogurt', 'coffee'}) has confidence to whole milk
+({'newspapers', 'root vegetables'}) has confidence to whole milk
+({'canned beer', 'processed cheese'}) has confidence to soda
+({'pickled vegetables', 'long life bakery product'}) has confidence to whole milk
+({'napkins', 'cream cheese'}) has confidence to whole milk
+({'herbs', 'pork'}) has confidence to other vegetables
+({'sliced cheese', 'root vegetables'}) has confidence to whole milk
+({'pastry', 'yogurt'}) has confidence to whole milk
+({'whipped/sour cream', 'hamburger meat'}) has confidence to whole milk
+({'beef', 'hamburger meat'}) has confidence to other vegetables
+({'detergent', 'baking powder'}) has confidence to whole milk
+({'coffee', 'processed cheese'}) has confidence to whole milk
+({'detergent', 'frozen meals'}) has confidence to whole milk
+({'processed cheese', 'root vegetables'}) has confidence to whole milk
+({'grapes', 'semi-finished bread'}) has confidence to whole milk
+({'butter milk', 'UHT-milk'}) has confidence to other vegetables
+({'cat food', 'sliced cheese'}) has confidence to whole milk
+({'beef', 'frankfurter'}) has confidence to other vegetables
+({'herbs', 'bottled water'}) has confidence to root vegetables
+({'cream cheese', 'root vegetables'}) has confidence to other vegetables
+({'hard cheese', 'margarine'}) has confidence to whole milk
+({'soft cheese', 'misc. beverages'}) has confidence to whole milk
+({'grapes', 'hygiene articles'}) has confidence to whole milk
+({'waffles', 'butter'}) has confidence to whole milk
+({'pork', 'long life bakery product'}) has confidence to whole milk
+({'white bread', 'chicken'}) has confidence to other vegetables
+({'soft cheese', 'root vegetables'}) has confidence to whole milk
+({'hygiene articles', 'other vegetables'}) has confidence to whole milk
+({'chewing gum', 'butter milk'}) has confidence to whole milk
+({'beef', 'frankfurter'}) has confidence to whole milk
+({'butter milk', 'hamburger meat'}) has confidence to other vegetables
+({'white bread', 'tropical fruit'}) has confidence to whole milk
+({'sliced cheese', 'pip fruit'}) has confidence to other vegetables
+({'frozen vegetables', 'coffee'}) has confidence to whole milk
+({'napkins', 'waffles'}) has confidence to whole milk
+({'sugar', 'hamburger meat'}) has confidence to whole milk
+({'oil', 'citrus fruit'}) has confidence to other vegetables
+({'ham', 'soft cheese'}) has confidence to whole milk
+({'pork', 'hamburger meat'}) has confidence to whole milk
+({'cream cheese', 'butter'}) has confidence to yogurt
+({'butter', 'oil'}) has confidence to whole milk
+({'semi-finished bread', 'meat'}) has confidence to other vegetables
+({'white bread', 'butter milk'}) has confidence to other vegetables
+({'grapes', 'frozen vegetables'}) has confidence to other vegetables
+({'dessert', 'pip fruit'}) has confidence to other vegetables
+({'brown bread', 'misc. beverages'}) has confidence to whole milk
+({'butter', 'hygiene articles'}) has confidence to other vegetables
+({'coffee', 'root vegetables'}) has confidence to whole milk
+({'hard cheese', 'soft cheese'}) has confidence to other vegetables
+({'ham', 'hamburger meat'}) has confidence to whole milk
+({'curd', 'ice cream'}) has confidence to whole milk
+({'ice cream', 'frozen vegetables'}) has confidence to other vegetables
+({'dishes', 'processed cheese'}) has confidence to whole milk
+({'domestic eggs', 'waffles'}) has confidence to whole milk
+({'flour', 'frankfurter'}) has confidence to whole milk
+({'pastry', 'soft cheese'}) has confidence to other vegetables
+({'tropical fruit', 'onions'}) has confidence to other vegetables
+({'butter', 'chicken'}) has confidence to whole milk
+({'grapes', 'specialty chocolate'}) has confidence to other vegetables
+({'cat food', 'hard cheese'}) has confidence to other vegetables
+({'butter milk', 'sausage'}) has confidence to whole milk
+({'flour', 'onions'}) has confidence to other vegetables
+({'pickled vegetables', 'berries'}) has confidence to whole milk
+({'beef', 'sausage'}) has confidence to other vegetables
+({'butter', 'butter milk'}) has confidence to whole milk
+({'white bread', 'baking powder'}) has confidence to whole milk
+({'detergent', 'fruit/vegetable juice'}) has confidence to whole milk
+({'ice cream', 'processed cheese'}) has confidence to whole milk
+({'grapes', 'sliced cheese'}) has confidence to other vegetables
+({'beef', 'pot plants'}) has confidence to whole milk
+({'semi-finished bread', 'pork'}) has confidence to whole milk
+({'meat', 'sliced cheese'}) has confidence to whole milk
+({'domestic eggs', 'meat'}) has confidence to whole milk
+({'processed cheese', 'root vegetables'}) has confidence to other vegetables
+({'beverages', 'root vegetables'}) has confidence to other vegetables
+({'ice cream', 'pork'}) has confidence to whole milk
+({'cream cheese', 'oil'}) has confidence to whole milk
+({'dishes', 'salty snack'}) has confidence to other vegetables
+({'curd', 'berries'}) has confidence to other vegetables
+({'beef', 'sausage'}) has confidence to root vegetables
+({'chocolate', 'processed cheese'}) has confidence to whole milk
+({'detergent', 'meat'}) has confidence to other vegetables
+({'chocolate', 'sausage'}) has confidence to whole milk
+({'hard cheese', 'dessert'}) has confidence to other vegetables
+({'rolls/buns', 'chicken'}) has confidence to other vegetables
+({'soft cheese', 'tropical fruit'}) has confidence to other vegetables
+({'hard cheese', 'flour'}) has confidence to whole milk
+({'newspapers', 'butter milk'}) has confidence to rolls/buns
+({'sugar', 'dishes'}) has confidence to other vegetables
+({'herbs', 'long life bakery product'}) has confidence to other vegetables
+({'butter', 'grapes'}) has confidence to whole milk
+({'herbs', 'rolls/buns'}) has confidence to whole milk
+({'whipped/sour cream', 'sausage'}) has confidence to other vegetables
+({'hard cheese', 'coffee'}) has confidence to whole milk
+({'butter', 'hamburger meat'}) has confidence to whole milk
+({'sugar', 'long life bakery product'}) has confidence to whole milk
+({'sugar', 'curd'}) has confidence to whole milk
+({'baking powder', 'fruit/vegetable juice'}) has confidence to whole milk
+({'curd', 'domestic eggs'}) has confidence to other vegetables
+({'cake bar', 'whipped/sour cream'}) has confidence to whole milk
+({'whipped/sour cream', 'grapes'}) has confidence to other vegetables
+({'UHT-milk', 'berries'}) has confidence to other vegetables
+({'hard cheese', 'beef'}) has confidence to other vegetables
+({'pickled vegetables', 'semi-finished bread'}) has confidence to whole milk
+({'salty snack', 'processed cheese'}) has confidence to whole milk
+({'sugar', 'frozen meals'}) has confidence to yogurt
+({'yogurt', 'pork'}) has confidence to whole milk
+({'domestic eggs', 'soft cheese'}) has confidence to whole milk
+({'specialty chocolate', 'onions'}) has confidence to other vegetables
+({'pickled vegetables', 'pasta'}) has confidence to whole milk
+({'pickled vegetables', 'ham'}) has confidence to other vegetables
+({'frankfurter', 'soft cheese'}) has confidence to rolls/buns
+({'pasta', 'onions'}) has confidence to whole milk
+({'hard cheese', 'onions'}) has confidence to other vegetables
+({'napkins', 'bottled beer'}) has confidence to whole milk
+({'white bread', 'long life bakery product'}) has confidence to whole milk
+({'UHT-milk', 'specialty bar'}) has confidence to other vegetables
+({'bottled water', 'soft cheese'}) has confidence to other vegetables
+({'meat', 'hamburger meat'}) has confidence to whole milk
+({'herbs', 'pickled vegetables'}) has confidence to whole milk
+({'beef', 'pickled vegetables'}) has confidence to other vegetables
+({'onions', 'misc. beverages'}) has confidence to other vegetables
+({'frozen vegetables', 'oil'}) has confidence to other vegetables
+({'whipped/sour cream', 'salty snack'}) has confidence to other vegetables
+({'newspapers', 'beverages'}) has confidence to whole milk
+({'baking powder', 'tropical fruit'}) has confidence to whole milk
+({'herbs', 'coffee'}) has confidence to other vegetables
+({'herbs', 'sliced cheese'}) has confidence to other vegetables
+({'pork', 'rolls/buns'}) has confidence to whole milk
+({'domestic eggs', 'pork'}) has confidence to whole milk
+({'whipped/sour cream', 'processed cheese'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'pork'}) has confidence to other vegetables
+({'margarine', 'berries'}) has confidence to other vegetables
+({'waffles', 'candy'}) has confidence to other vegetables
+({'cream cheese', 'cake bar'}) has confidence to whole milk
+({'whipped/sour cream', 'sliced cheese'}) has confidence to whole milk
+({'margarine', 'specialty chocolate'}) has confidence to other vegetables
+({'sugar', 'sliced cheese'}) has confidence to other vegetables
+({'curd', 'ice cream'}) has confidence to other vegetables
+({'newspapers', 'baking powder'}) has confidence to whole milk
+({'herbs', 'fruit/vegetable juice'}) has confidence to other vegetables
+({'white bread', 'frozen meals'}) has confidence to whole milk
+({'citrus fruit', 'processed cheese'}) has confidence to other vegetables
+({'semi-finished bread', 'fruit/vegetable juice'}) has confidence to whole milk
+({'hard cheese', 'citrus fruit'}) has confidence to other vegetables
+({'domestic eggs', 'bottled beer'}) has confidence to whole milk
+({'fruit/vegetable juice', 'berries'}) has confidence to whole milk
+({'whole milk', 'grapes'}) has confidence to other vegetables
+({'sugar', 'pickled vegetables'}) has confidence to whole milk
+({'waffles', 'chicken'}) has confidence to soda
+({'domestic eggs', 'hamburger meat'}) has confidence to whole milk
+({'hard cheese', 'chicken'}) has confidence to whole milk
+({'dessert', 'misc. beverages'}) has confidence to whole milk
+({'cat food', 'frozen vegetables'}) has confidence to other vegetables
+({'chocolate', 'root vegetables'}) has confidence to other vegetables
+({'oil', 'pot plants'}) has confidence to whole milk
+({'cat food', 'herbs'}) has confidence to other vegetables
+({'onions', 'root vegetables'}) has confidence to whole milk
+({'salty snack', 'meat'}) has confidence to other vegetables
+({'dessert', 'pot plants'}) has confidence to whole milk
+({'ice cream', 'hard cheese'}) has confidence to other vegetables
+({'pork', 'pot plants'}) has confidence to whole milk
+({'curd', 'soft cheese'}) has confidence to yogurt
+({'pickled vegetables', 'chocolate'}) has confidence to whole milk
+({'sliced cheese', 'meat'}) has confidence to whole milk
+({'onions', 'canned fish'}) has confidence to other vegetables
+({'ham', 'coffee'}) has confidence to whole milk
+({'candy', 'sausage'}) has confidence to other vegetables
+({'sugar', 'flour'}) has confidence to whole milk
+({'herbs', 'margarine'}) has confidence to other vegetables
+({'whipped/sour cream', 'salty snack'}) has confidence to whole milk
+({'frozen vegetables', 'baking powder'}) has confidence to whole milk
+({'specialty bar', 'hamburger meat'}) has confidence to other vegetables
+({'pastry', 'oil'}) has confidence to whole milk
+({'newspapers', 'pot plants'}) has confidence to whole milk
+({'pastry', 'herbs'}) has confidence to other vegetables
+({'detergent', 'cat food'}) has confidence to other vegetables
+({'butter', 'frozen meals'}) has confidence to yogurt
+({'detergent', 'meat'}) has confidence to whole milk
+({'semi-finished bread', 'chocolate'}) has confidence to whole milk
+({'pickled vegetables', 'beef'}) has confidence to whole milk
+({'cake bar', 'processed cheese'}) has confidence to whole milk
+({'chicken', 'pip fruit'}) has confidence to whole milk
+({'yogurt', 'root vegetables'}) has confidence to whole milk
+({'sugar', 'waffles'}) has confidence to whole milk
+({'yogurt', 'herbs'}) has confidence to other vegetables
+({'ham', 'salty snack'}) has confidence to whole milk
+({'baking powder', 'long life bakery product'}) has confidence to other vegetables
+({'herbs', 'grapes'}) has confidence to whole milk
+({'pastry', 'meat'}) has confidence to whole milk
+({'specialty chocolate', 'ham'}) has confidence to whole milk
+({'tropical fruit', 'sliced cheese'}) has confidence to whole milk
+({'butter milk', 'candy'}) has confidence to tropical fruit
+({'pastry', 'baking powder'}) has confidence to whole milk
+({'beef', 'oil'}) has confidence to whole milk
+({'baking powder', 'pip fruit'}) has confidence to other vegetables
+({'whipped/sour cream', 'frozen meals'}) has confidence to whole milk
+({'onions', 'root vegetables'}) has confidence to other vegetables
+({'grapes', 'pickled vegetables'}) has confidence to other vegetables
+({'cream cheese', 'herbs'}) has confidence to root vegetables
+({'root vegetables', 'frozen meals'}) has confidence to whole milk
+({'curd', 'sliced cheese'}) has confidence to yogurt
+({'sugar', 'detergent'}) has confidence to whole milk
+({'dessert', 'long life bakery product'}) has confidence to yogurt
+({'curd', 'root vegetables'}) has confidence to other vegetables
+({'frozen vegetables', 'long life bakery product'}) has confidence to other vegetables
+({'butter', 'onions'}) has confidence to whole milk
+({'margarine', 'pot plants'}) has confidence to whole milk
+({'beef', 'sliced cheese'}) has confidence to root vegetables
+({'hygiene articles', 'tropical fruit'}) has confidence to whole milk
+({'sliced cheese', 'salty snack'}) has confidence to whole milk
+({'specialty chocolate', 'semi-finished bread'}) has confidence to whole milk
+({'berries', 'bottled beer'}) has confidence to root vegetables
+({'semi-finished bread', 'brown bread'}) has confidence to other vegetables
+({'butter', 'pip fruit'}) has confidence to whole milk
+({'whipped/sour cream', 'sausage'}) has confidence to whole milk
+({'curd', 'herbs'}) has confidence to other vegetables
+({'specialty chocolate', 'pasta'}) has confidence to whole milk
+({'detergent', 'frozen vegetables'}) has confidence to other vegetables
+({'margarine', 'chocolate'}) has confidence to whole milk
+({'yogurt', 'pasta'}) has confidence to whole milk
+({'detergent', 'canned beer'}) has confidence to whole milk
+({'herbs', 'hygiene articles'}) has confidence to whole milk
+({'ham', 'brown bread'}) has confidence to other vegetables
+({'sausage', 'hamburger meat'}) has confidence to whole milk
+({'herbs', 'bottled beer'}) has confidence to root vegetables
+({'sugar', 'semi-finished bread'}) has confidence to whole milk
+({'ham', 'pip fruit'}) has confidence to other vegetables
+({'dishes', 'specialty bar'}) has confidence to other vegetables
+({'mustard', 'pip fruit'}) has confidence to whole milk
+({'flour', 'hard cheese'}) has confidence to whole milk
+({'meat', 'sliced cheese'}) has confidence to other vegetables
+({'beef', 'semi-finished bread'}) has confidence to whole milk
+({'cake bar', 'rolls/buns'}) has confidence to whole milk
+({'margarine', 'whipped/sour cream'}) has confidence to whole milk
+({'oil', 'tropical fruit'}) has confidence to whole milk
+({'specialty bar', 'misc. beverages'}) has confidence to soda
+({'pastry', 'butter milk'}) has confidence to whole milk
+({'domestic eggs', 'onions'}) has confidence to other vegetables
+({'grapes', 'candy'}) has confidence to other vegetables
+({'dessert', 'sliced cheese'}) has confidence to other vegetables
+({'yogurt', 'semi-finished bread'}) has confidence to other vegetables
+({'ham', 'canned fish'}) has confidence to other vegetables
+({'rolls/buns', 'hamburger meat'}) has confidence to other vegetables
+({'butter', 'semi-finished bread'}) has confidence to whole milk
+({'grapes', 'onions'}) has confidence to other vegetables
+({'chocolate', 'root vegetables'}) has confidence to whole milk
+({'semi-finished bread', 'hygiene articles'}) has confidence to whole milk
+({'hygiene articles', 'sliced cheese'}) has confidence to whole milk
+({'chewing gum', 'onions'}) has confidence to soda
+({'detergent', 'baking powder'}) has confidence to other vegetables
+({'salty snack', 'berries'}) has confidence to other vegetables
+({'flour', 'specialty chocolate'}) has confidence to whole milk
+({'onions', 'meat'}) has confidence to other vegetables
+({'soft cheese', 'semi-finished bread'}) has confidence to other vegetables
+({'detergent', 'tropical fruit'}) has confidence to other vegetables
+({'detergent', 'specialty bar'}) has confidence to whole milk
+({'detergent', 'berries'}) has confidence to other vegetables
+({'meat', 'chicken'}) has confidence to whole milk
+({'pickled vegetables', 'tropical fruit'}) has confidence to other vegetables
+({'whipped/sour cream', 'hygiene articles'}) has confidence to other vegetables
+({'ham', 'onions'}) has confidence to other vegetables
+({'domestic eggs', 'pork'}) has confidence to other vegetables
+({'yogurt', 'onions'}) has confidence to whole milk
+({'canned beer', 'grapes'}) has confidence to other vegetables
+({'soft cheese', 'sliced cheese'}) has confidence to whole milk
+({'specialty chocolate', 'white bread'}) has confidence to soda
+({'butter', 'bottled water'}) has confidence to whole milk
+({'hard cheese', 'beef'}) has confidence to whole milk
+({'coffee', 'bottled beer'}) has confidence to whole milk
+({'butter', 'hygiene articles'}) has confidence to whole milk
+({'waffles', 'soft cheese'}) has confidence to whole milk
+({'waffles', 'butter'}) has confidence to other vegetables
+({'dessert', 'baking powder'}) has confidence to other vegetables
+({'tropical fruit', 'sliced cheese'}) has confidence to yogurt
+({'butter', 'specialty bar'}) has confidence to other vegetables
+({'herbs', 'misc. beverages'}) has confidence to other vegetables
+({'margarine', 'processed cheese'}) has confidence to whole milk
+({'sugar', 'oil'}) has confidence to whole milk
+({'detergent', 'citrus fruit'}) has confidence to whole milk
+({'margarine', 'ham'}) has confidence to whole milk
+({'margarine', 'meat'}) has confidence to other vegetables
+({'napkins', 'onions'}) has confidence to other vegetables
+({'dessert', 'onions'}) has confidence to other vegetables
+({'sausage', 'chicken'}) has confidence to other vegetables
+({'margarine', 'oil'}) has confidence to other vegetables
+({'specialty chocolate', 'dishes'}) has confidence to whole milk
+({'frozen vegetables', 'hygiene articles'}) has confidence to whole milk
+({'canned fish', 'berries'}) has confidence to other vegetables
+({'dessert', 'meat'}) has confidence to rolls/buns
+({'soda', 'dishes'}) has confidence to other vegetables
+({'cake bar', 'frozen meals'}) has confidence to whole milk
+({'ham', 'citrus fruit'}) has confidence to whole milk
+({'sliced cheese', 'tropical fruit'}) has confidence to whole milk
+({'yogurt', 'herbs'}) has confidence to root vegetables
+({'detergent', 'curd'}) has confidence to whole milk
+({'flour', 'citrus fruit'}) has confidence to other vegetables
+({'butter milk', 'soft cheese'}) has confidence to whole milk
+({'detergent', 'misc. beverages'}) has confidence to whole milk
+({'curd', 'beef'}) has confidence to whole milk
+({'baking powder', 'white bread'}) has confidence to whole milk
+({'semi-finished bread', 'onions'}) has confidence to other vegetables
+({'long life bakery product', 'root vegetables'}) has confidence to whole milk
+({'hamburger meat', 'rolls/buns'}) has confidence to whole milk
+({'yogurt', 'butter milk'}) has confidence to whole milk
+({'chewing gum', 'pork'}) has confidence to whole milk
+({'herbs', 'rolls/buns'}) has confidence to other vegetables
+({'ham', 'tropical fruit'}) has confidence to whole milk
+({'waffles', 'butter milk'}) has confidence to whole milk
+({'baking powder', 'pork'}) has confidence to other vegetables
+({'butter milk', 'pork'}) has confidence to whole milk
+({'pasta', 'sausage'}) has confidence to whole milk
+({'tropical fruit', 'meat'}) has confidence to other vegetables
+({'beef', 'coffee'}) has confidence to whole milk
+({'yogurt', 'oil'}) has confidence to whole milk
+({'ham', 'butter milk'}) has confidence to whole milk
+({'cream cheese', 'pork'}) has confidence to other vegetables
+({'domestic eggs', 'whipped/sour cream'}) has confidence to other vegetables
+({'whipped/sour cream', 'frozen meals'}) has confidence to other vegetables
+({'curd', 'detergent'}) has confidence to whole milk
+({'meat', 'root vegetables'}) has confidence to whole milk
+({'napkins', 'coffee'}) has confidence to whole milk
+({'frozen vegetables', 'ham'}) has confidence to whole milk
+({'curd', 'butter milk'}) has confidence to whole milk
+({'specialty chocolate', 'pork'}) has confidence to whole milk
+({'ice cream', 'hamburger meat'}) has confidence to other vegetables
+({'herbs', 'whole milk'}) has confidence to root vegetables
+({'hard cheese', 'newspapers'}) has confidence to whole milk
+({'soft cheese', 'onions'}) has confidence to whole milk
+({'hamburger meat', 'rolls/buns'}) has confidence to other vegetables
+({'ice cream', 'hamburger meat'}) has confidence to whole milk
+({'pork', 'onions'}) has confidence to other vegetables
+({'yogurt', 'frankfurter'}) has confidence to whole milk
+({'long life bakery product', 'root vegetables'}) has confidence to other vegetables
+({'ice cream', 'curd'}) has confidence to whole milk
+({'berries', 'meat'}) has confidence to whole milk
+({'margarine', 'rolls/buns'}) has confidence to whole milk
+({'oil', 'brown bread'}) has confidence to other vegetables
+({'margarine', 'whipped/sour cream'}) has confidence to other vegetables
+({'detergent', 'soft cheese'}) has confidence to whole milk
+({'grapes', 'butter'}) has confidence to other vegetables
+({'soft cheese', 'sausage'}) has confidence to other vegetables
+({'ham', 'hygiene articles'}) has confidence to whole milk
+({'oil', 'chicken'}) has confidence to other vegetables
+({'ice cream', 'napkins'}) has confidence to soda
+({'cake bar', 'butter milk'}) has confidence to whole milk
+({'tropical fruit', 'salty snack'}) has confidence to other vegetables
+({'yogurt', 'ham'}) has confidence to whole milk
+({'canned beer', 'baking powder'}) has confidence to whole milk
+({'chocolate', 'sliced cheese'}) has confidence to whole milk
+({'beef', 'specialty bar'}) has confidence to rolls/buns
+({'cat food', 'processed cheese'}) has confidence to whole milk
+({'UHT-milk', 'soft cheese'}) has confidence to yogurt
+({'white bread', 'hamburger meat'}) has confidence to other vegetables
+({'semi-finished bread', 'soft cheese'}) has confidence to other vegetables
+({'ham', 'dessert'}) has confidence to whole milk
+({'curd', 'frankfurter'}) has confidence to whole milk
+({'domestic eggs', 'tropical fruit'}) has confidence to whole milk
+({'herbs', 'pip fruit'}) has confidence to other vegetables
+({'herbs', 'bottled water'}) has confidence to whole milk
+({'pastry', 'chicken'}) has confidence to whole milk
+({'cream cheese', 'frozen vegetables'}) has confidence to whole milk
+({'bottled beer', 'brown bread'}) has confidence to whole milk
+({'soft cheese', 'berries'}) has confidence to other vegetables
+({'dessert', 'sliced cheese'}) has confidence to whole milk
+({'pastry', 'butter'}) has confidence to other vegetables
+({'herbs', 'coffee'}) has confidence to whole milk
+({'napkins', 'butter milk'}) has confidence to whole milk
+({'herbs', 'sausage'}) has confidence to root vegetables
+({'waffles', 'domestic eggs'}) has confidence to whole milk
+({'frozen vegetables', 'processed cheese'}) has confidence to whole milk
+({'baking powder', 'long life bakery product'}) has confidence to whole milk
+({'cat food', 'brown bread'}) has confidence to other vegetables
+({'dessert', 'butter milk'}) has confidence to yogurt
+({'curd', 'white bread'}) has confidence to whole milk
+({'cake bar', 'brown bread'}) has confidence to whole milk
+({'butter', 'margarine'}) has confidence to other vegetables
+({'domestic eggs', 'hygiene articles'}) has confidence to whole milk
+({'domestic eggs', 'chicken'}) has confidence to other vegetables
+({'specialty chocolate', 'sliced cheese'}) has confidence to whole milk
+({'hygiene articles', 'root vegetables'}) has confidence to whole milk
+({'napkins', 'berries'}) has confidence to whole milk
+({'domestic eggs', 'chocolate'}) has confidence to whole milk
+({'onions', 'citrus fruit'}) has confidence to other vegetables
+({'whipped/sour cream', 'semi-finished bread'}) has confidence to other vegetables
+({'flour', 'other vegetables'}) has confidence to whole milk
+({'detergent', 'pastry'}) has confidence to whole milk
+({'specialty bar', 'pot plants'}) has confidence to whole milk
+({'hard cheese', 'dishes'}) has confidence to whole milk
+({'domestic eggs', 'root vegetables'}) has confidence to whole milk
+({'coffee', 'misc. beverages'}) has confidence to bottled water
+({'white bread', 'hamburger meat'}) has confidence to whole milk
+({'butter', 'white bread'}) has confidence to whole milk
+({'specialty chocolate', 'baking powder'}) has confidence to other vegetables
+({'herbs', 'dessert'}) has confidence to other vegetables
+({'flour', 'beverages'}) has confidence to other vegetables
+({'curd', 'rolls/buns'}) has confidence to whole milk
+({'flour', 'margarine'}) has confidence to whole milk
+({'detergent', 'beef'}) has confidence to whole milk
+({'soft cheese', 'UHT-milk'}) has confidence to yogurt
+({'white bread', 'processed cheese'}) has confidence to whole milk
+({'dessert', 'sausage'}) has confidence to other vegetables
+({'specialty chocolate', 'candy'}) has confidence to whole milk
+({'ice cream', 'newspapers'}) has confidence to other vegetables
+({'cake bar', 'long life bakery product'}) has confidence to whole milk
+({'pip fruit', 'root vegetables'}) has confidence to other vegetables
+({'whipped/sour cream', 'specialty bar'}) has confidence to other vegetables
+({'yogurt', 'hard cheese'}) has confidence to whole milk
+({'soft cheese', 'hygiene articles'}) has confidence to other vegetables
+({'frozen vegetables', 'brown bread'}) has confidence to whole milk
+({'baking powder', 'dessert'}) has confidence to other vegetables
+({'butter milk', 'bottled beer'}) has confidence to other vegetables
+({'sugar', 'pork'}) has confidence to whole milk
+({'newspapers', 'root vegetables'}) has confidence to other vegetables
+({'domestic eggs', 'coffee'}) has confidence to whole milk
+({'butter', 'ham'}) has confidence to whole milk
+({'sugar', 'yogurt'}) has confidence to whole milk
+({'candy', 'hamburger meat'}) has confidence to other vegetables
+({'oil', 'sliced cheese'}) has confidence to whole milk
+({'semi-finished bread', 'beverages'}) has confidence to whole milk
+({'whipped/sour cream', 'root vegetables'}) has confidence to whole milk
+({'soda', 'sugar'}) has confidence to whole milk
+({'herbs', 'long life bakery product'}) has confidence to whole milk
+({'pastry', 'processed cheese'}) has confidence to whole milk
+({'cat food', 'onions'}) has confidence to other vegetables
+({'grapes', 'margarine'}) has confidence to other vegetables
+({'ham', 'bottled beer'}) has confidence to whole milk
+({'flour', 'sliced cheese'}) has confidence to other vegetables
+({'herbs', 'margarine'}) has confidence to whole milk
+({'cake bar', 'dishes'}) has confidence to whole milk
+({'oil', 'mustard'}) has confidence to whole milk
+({'chewing gum', 'hamburger meat'}) has confidence to whole milk
+({'citrus fruit', 'processed cheese'}) has confidence to whole milk
+({'root vegetables', 'citrus fruit'}) has confidence to other vegetables
+({'ice cream', 'root vegetables'}) has confidence to other vegetables
+({'bottled water', 'pot plants'}) has confidence to whole milk
+({'sugar', 'hamburger meat'}) has confidence to other vegetables
+({'domestic eggs', 'soft cheese'}) has confidence to yogurt
+({'bottled water', 'baking powder'}) has confidence to whole milk
+({'beef', 'tropical fruit'}) has confidence to other vegetables
+({'baking powder', 'candy'}) has confidence to whole milk
+({'flour', 'white bread'}) has confidence to whole milk
+({'soft cheese', 'oil'}) has confidence to other vegetables
+({'sliced cheese', 'frozen meals'}) has confidence to whole milk
+({'margarine', 'fruit/vegetable juice'}) has confidence to whole milk
+({'frozen vegetables', 'soft cheese'}) has confidence to other vegetables
+({'hygiene articles', 'soft cheese'}) has confidence to yogurt
+({'butter', 'root vegetables'}) has confidence to other vegetables
+({'newspapers', 'hard cheese'}) has confidence to whole milk
+({'curd', 'pastry'}) has confidence to whole milk
+({'pasta', 'hamburger meat'}) has confidence to whole milk
+({'pot plants', 'mustard'}) has confidence to whole milk
+({'soft cheese', 'fruit/vegetable juice'}) has confidence to other vegetables
+({'cream cheese', 'pickled vegetables'}) has confidence to whole milk
+({'pork', 'coffee'}) has confidence to other vegetables
+({'butter milk', 'processed cheese'}) has confidence to other vegetables
+({'whipped/sour cream', 'dessert'}) has confidence to other vegetables
+({'bottled water', 'soft cheese'}) has confidence to yogurt
+({'butter milk', 'oil'}) has confidence to other vegetables
+({'flour', 'dessert'}) has confidence to other vegetables
+({'grapes', 'frankfurter'}) has confidence to other vegetables
+({'soft cheese', 'specialty bar'}) has confidence to other vegetables
+({'onions', 'brown bread'}) has confidence to whole milk
+({'curd', 'bottled beer'}) has confidence to whole milk
+({'sausage', 'tropical fruit'}) has confidence to whole milk
+({'baking powder', 'other vegetables'}) has confidence to whole milk
+({'herbs', 'sliced cheese'}) has confidence to whole milk
+({'herbs', 'whipped/sour cream'}) has confidence to other vegetables
+({'beef', 'onions'}) has confidence to whole milk
+({'soft cheese', 'pork'}) has confidence to whole milk
+({'chocolate', 'oil'}) has confidence to whole milk
+({'dessert', 'frozen meals'}) has confidence to other vegetables
+({'hard cheese', 'oil'}) has confidence to whole milk
+({'cake bar', 'butter'}) has confidence to whole milk
+({'detergent', 'rolls/buns'}) has confidence to whole milk
+({'oil', 'chocolate'}) has confidence to whole milk
+({'curd', 'other vegetables'}) has confidence to whole milk
+({'canned fish', 'chicken'}) has confidence to other vegetables
+({'napkins', 'white bread'}) has confidence to whole milk
+({'butter', 'pork'}) has confidence to whole milk
+({'specialty chocolate', 'oil'}) has confidence to other vegetables
+({'flour', 'grapes'}) has confidence to other vegetables
+({'butter', 'hamburger meat'}) has confidence to other vegetables
+({'flour', 'rolls/buns'}) has confidence to whole milk
+({'butter milk', 'white bread'}) has confidence to other vegetables
+({'dessert', 'pasta'}) has confidence to whole milk
+({'herbs', 'meat'}) has confidence to other vegetables
+({'cake bar', 'frozen vegetables'}) has confidence to whole milk
+({'semi-finished bread', 'pot plants'}) has confidence to whole milk
+({'herbs', 'specialty bar'}) has confidence to other vegetables
+({'cat food', 'dessert'}) has confidence to other vegetables
+({'grapes', 'sausage'}) has confidence to other vegetables
+({'domestic eggs', 'citrus fruit'}) has confidence to whole milk
+({'domestic eggs', 'ham'}) has confidence to whole milk
+({'frankfurter', 'frozen meals'}) has confidence to other vegetables
+({'semi-finished bread', 'tropical fruit'}) has confidence to other vegetables
+({'hard cheese', 'canned beer'}) has confidence to yogurt
+({'butter', 'onions'}) has confidence to other vegetables
+({'herbs', 'shopping bags'}) has confidence to other vegetables
+({'yogurt', 'domestic eggs'}) has confidence to whole milk
+({'herbs', 'frozen vegetables'}) has confidence to root vegetables
+({'herbs', 'chocolate'}) has confidence to whole milk
+({'hard cheese', 'herbs'}) has confidence to other vegetables
+({'herbs', 'frozen meals'}) has confidence to other vegetables
+({'cream cheese', 'hard cheese'}) has confidence to whole milk
+({'pickled vegetables', 'baking powder'}) has confidence to whole milk
+({'pickled vegetables', 'pot plants'}) has confidence to whole milk
+({'whipped/sour cream', 'soft cheese'}) has confidence to whole milk
+({'frankfurter', 'berries'}) has confidence to whole milk
+({'beef', 'brown bread'}) has confidence to whole milk
+({'pasta', 'sliced cheese'}) has confidence to whole milk
+({'butter milk', 'soft cheese'}) has confidence to yogurt
+({'semi-finished bread', 'pork'}) has confidence to other vegetables
+({'ham', 'oil'}) has confidence to other vegetables
+({'yogurt', 'whipped/sour cream'}) has confidence to whole milk
+({'pastry', 'beef'}) has confidence to whole milk
+({'soft cheese', 'fruit/vegetable juice'}) has confidence to yogurt
+({'butter milk', 'white bread'}) has confidence to whole milk
+({'chicken', 'pip fruit'}) has confidence to other vegetables
+({'yogurt', 'tropical fruit'}) has confidence to whole milk
+({'detergent', 'candy'}) has confidence to other vegetables
+({'grapes', 'beverages'}) has confidence to other vegetables
+({'sugar', 'herbs'}) has confidence to whole milk
+({'beef', 'beverages'}) has confidence to whole milk
+({'root vegetables', 'pip fruit'}) has confidence to whole milk
+({'cream cheese', 'onions'}) has confidence to whole milk
+({'chewing gum', 'white bread'}) has confidence to whole milk
+({'hygiene articles', 'specialty bar'}) has confidence to whole milk
+({'beef', 'pork'}) has confidence to other vegetables
+({'herbs', 'whipped/sour cream'}) has confidence to whole milk
+({'butter', 'frozen vegetables'}) has confidence to whole milk
+({'pastry', 'ham'}) has confidence to whole milk
+({'baking powder', 'chicken'}) has confidence to other vegetables
+({'pickled vegetables', 'beef'}) has confidence to other vegetables
+({'curd', 'ham'}) has confidence to whole milk
+({'waffles', 'meat'}) has confidence to whole milk
+({'cake bar', 'specialty bar'}) has confidence to whole milk
+({'butter', 'pip fruit'}) has confidence to other vegetables
+({'soft cheese', 'hygiene articles'}) has confidence to whole milk
+({'grapes', 'whipped/sour cream'}) has confidence to other vegetables
+({'napkins', 'long life bakery product'}) has confidence to whole milk
+({'grapes', 'oil'}) has confidence to other vegetables
+({'curd', 'root vegetables'}) has confidence to whole milk
+({'frankfurter', 'coffee'}) has confidence to whole milk
+({'onions', 'sliced cheese'}) has confidence to other vegetables
+({'shopping bags', 'processed cheese'}) has confidence to whole milk
+({'butter', 'canned fish'}) has confidence to other vegetables
+({'onions', 'chicken'}) has confidence to other vegetables
+({'soft cheese', 'tropical fruit'}) has confidence to whole milk
+({'detergent', 'domestic eggs'}) has confidence to whole milk
+({'specialty bar', 'processed cheese'}) has confidence to soda
+({'grapes', 'white bread'}) has confidence to other vegetables
+({'misc. beverages', 'brown bread'}) has confidence to whole milk
+({'cream cheese', 'butter milk'}) has confidence to whole milk
+({'cream cheese', 'frozen meals'}) has confidence to yogurt
+({'pork', 'pip fruit'}) has confidence to whole milk
+({'meat', 'coffee'}) has confidence to other vegetables
+({'pork', 'meat'}) has confidence to other vegetables
+({'flour', 'frozen meals'}) has confidence to whole milk
+({'salty snack', 'sliced cheese'}) has confidence to whole milk
+({'sugar', 'butter'}) has confidence to whole milk
+({'grapes', 'pot plants'}) has confidence to whole milk
+({'herbs', 'brown bread'}) has confidence to other vegetables
+({'curd', 'hamburger meat'}) has confidence to other vegetables
+({'soft cheese', 'hamburger meat'}) has confidence to whole milk
+({'baking powder', 'root vegetables'}) has confidence to whole milk
+({'sugar', 'bottled beer'}) has confidence to whole milk
+({'cat food', 'beverages'}) has confidence to yogurt
+({'onions', 'beverages'}) has confidence to other vegetables
+({'long life bakery product', 'pot plants'}) has confidence to whole milk
+({'coffee', 'misc. beverages'}) has confidence to soda
+({'butter', 'brown bread'}) has confidence to whole milk
+({'specialty chocolate', 'citrus fruit'}) has confidence to whole milk
+{'baking powder'} has confidence to {'whole milk'}
+({'dessert', 'pip fruit'}) has confidence to whole milk
+({'chewing gum', 'processed cheese'}) has confidence to whole milk
+({'butter', 'specialty chocolate'}) has confidence to whole milk
+({'butter', 'other vegetables'}) has confidence to whole milk
+({'herbs', 'pip fruit'}) has confidence to root vegetables
+({'curd', 'frozen meals'}) has confidence to whole milk
+({'baking powder', 'chicken'}) has confidence to whole milk
+({'yogurt', 'other vegetables'}) has confidence to whole milk
+({'domestic eggs', 'frozen meals'}) has confidence to whole milk
+({'cake bar', 'citrus fruit'}) has confidence to whole milk
+({'yogurt', 'fruit/vegetable juice'}) has confidence to whole milk
+({'waffles', 'rolls/buns'}) has confidence to whole milk
+({'whipped/sour cream', 'pip fruit'}) has confidence to whole milk
+({'herbs', 'pork'}) has confidence to whole milk
+({'curd', 'ham'}) has confidence to yogurt
+({'grapes', 'root vegetables'}) has confidence to other vegetables
+({'butter milk', 'hamburger meat'}) has confidence to whole milk
+({'margarine', 'white bread'}) has confidence to whole milk
+({'soft cheese', 'chocolate'}) has confidence to whole milk
+({'soft cheese', 'beverages'}) has confidence to rolls/buns
+({'white bread', 'chicken'}) has confidence to whole milk
+({'soft cheese', 'processed cheese'}) has confidence to whole milk
+({'ham', 'soft cheese'}) has confidence to other vegetables
+({'specialty chocolate', 'baking powder'}) has confidence to whole milk
+({'pasta', 'chocolate'}) has confidence to whole milk
+({'canned beer', 'domestic eggs'}) has confidence to whole milk
+({'detergent', 'pip fruit'}) has confidence to whole milk
+({'pot plants', 'brown bread'}) has confidence to whole milk
+({'canned beer', 'butter'}) has confidence to whole milk
+({'chocolate', 'semi-finished bread'}) has confidence to whole milk
+({'long life bakery product', 'processed cheese'}) has confidence to whole milk
+({'sugar', 'bottled water'}) has confidence to whole milk
+({'curd', 'misc. beverages'}) has confidence to whole milk
+({'cream cheese', 'chicken'}) has confidence to whole milk
+({'cream cheese', 'herbs'}) has confidence to other vegetables
+({'herbs', 'meat'}) has confidence to whole milk
+({'pastry', 'herbs'}) has confidence to whole milk
+({'white bread', 'baking powder'}) has confidence to other vegetables
+({'pasta', 'long life bakery product'}) has confidence to whole milk
+({'soft cheese', 'citrus fruit'}) has confidence to whole milk
+({'cake bar', 'beef'}) has confidence to whole milk
+({'sliced cheese', 'canned fish'}) has confidence to other vegetables
+({'cream cheese', 'pot plants'}) has confidence to whole milk
+({'domestic eggs', 'pip fruit'}) has confidence to whole milk
+({'margarine', 'canned fish'}) has confidence to other vegetables
+({'baking powder', 'pot plants'}) has confidence to whole milk
+({'detergent', 'cream cheese'}) has confidence to whole milk
+({'hard cheese', 'beef'}) has confidence to root vegetables
+({'frozen vegetables', 'root vegetables'}) has confidence to other vegetables
+({'grapes', 'frankfurter'}) has confidence to whole milk
+({'long life bakery product', 'processed cheese'}) has confidence to other vegetables
+({'chocolate', 'mustard'}) has confidence to whole milk
+({'sugar', 'beef'}) has confidence to other vegetables
+({'waffles', 'soft cheese'}) has confidence to other vegetables
+({'whipped/sour cream', 'tropical fruit'}) has confidence to other vegetables
+({'onions', 'misc. beverages'}) has confidence to whole milk
+({'whipped/sour cream', 'long life bakery product'}) has confidence to whole milk
+({'ham', 'chocolate'}) has confidence to whole milk
+({'oil', 'misc. beverages'}) has confidence to whole milk
+({'frozen vegetables', 'butter milk'}) has confidence to other vegetables
+({'dessert', 'butter milk'}) has confidence to whole milk
+({'canned fish', 'processed cheese'}) has confidence to other vegetables
+({'margarine', 'berries'}) has confidence to whole milk
+({'curd', 'bottled water'}) has confidence to whole milk
+({'sugar', 'pip fruit'}) has confidence to other vegetables
+({'candy', 'berries'}) has confidence to whole milk
+({'butter', 'chocolate'}) has confidence to whole milk
+({'herbs', 'root vegetables'}) has confidence to other vegetables
+({'hard cheese', 'dessert'}) has confidence to yogurt
+({'berries', 'pip fruit'}) has confidence to whole milk
+({'yogurt', 'chicken'}) has confidence to other vegetables
+({'UHT-milk', 'chicken'}) has confidence to other vegetables
+({'herbs', 'beef'}) has confidence to whole milk
+({'beef', 'chicken'}) has confidence to whole milk
+({'hard cheese', 'semi-finished bread'}) has confidence to other vegetables
+({'butter milk', 'mustard'}) has confidence to whole milk
+({'butter', 'soft cheese'}) has confidence to yogurt
+({'baking powder', 'pork'}) has confidence to whole milk
+({'hard cheese', 'tropical fruit'}) has confidence to whole milk
+({'butter', 'soft cheese'}) has confidence to other vegetables
+({'cream cheese', 'fruit/vegetable juice'}) has confidence to whole milk
+({'napkins', 'baking powder'}) has confidence to whole milk
+({'sugar', 'processed cheese'}) has confidence to whole milk
+({'cream cheese', 'domestic eggs'}) has confidence to other vegetables
+({'cream cheese', 'oil'}) has confidence to root vegetables
+({'bottled water', 'hygiene articles'}) has confidence to whole milk
+({'curd', 'onions'}) has confidence to other vegetables
+({'butter milk', 'dessert'}) has confidence to yogurt
+({'pot plants', 'processed cheese'}) has confidence to whole milk
+({'herbs', 'other vegetables'}) has confidence to whole milk
+({'dessert', 'berries'}) has confidence to whole milk
+({'domestic eggs', 'soft cheese'}) has confidence to other vegetables
+({'specialty chocolate', 'brown bread'}) has confidence to whole milk
+({'baking powder', 'frozen meals'}) has confidence to whole milk
+({'beef', 'UHT-milk'}) has confidence to other vegetables
+({'curd', 'hard cheese'}) has confidence to root vegetables
+({'processed cheese', 'citrus fruit'}) has confidence to whole milk
+({'candy', 'pot plants'}) has confidence to whole milk
+({'detergent', 'tropical fruit'}) has confidence to whole milk
+({'domestic eggs', 'beef'}) has confidence to other vegetables
+({'napkins', 'soft cheese'}) has confidence to yogurt
+({'napkins', 'herbs'}) has confidence to other vegetables
+({'oil', 'sliced cheese'}) has confidence to root vegetables
+({'frozen vegetables', 'canned fish'}) has confidence to other vegetables
+({'cream cheese', 'root vegetables'}) has confidence to whole milk
+({'cream cheese', 'frozen meals'}) has confidence to other vegetables
+({'curd', 'detergent'}) has confidence to other vegetables
+({'salty snack', 'root vegetables'}) has confidence to other vegetables
+({'white bread', 'chocolate'}) has confidence to whole milk
+({'napkins', 'cake bar'}) has confidence to whole milk
+({'bottled water', 'mustard'}) has confidence to whole milk
+({'pickled vegetables', 'bottled beer'}) has confidence to whole milk
+({'pork', 'citrus fruit'}) has confidence to other vegetables
+({'root vegetables', 'citrus fruit'}) has confidence to whole milk
+({'cake bar', 'coffee'}) has confidence to whole milk
+({'whipped/sour cream', 'bottled beer'}) has confidence to other vegetables
+({'ham', 'misc. beverages'}) has confidence to other vegetables
+({'frankfurter', 'frozen meals'}) has confidence to whole milk
+({'specialty chocolate', 'oil'}) has confidence to whole milk
+({'pastry', 'root vegetables'}) has confidence to other vegetables
+({'cream cheese', 'semi-finished bread'}) has confidence to whole milk
+({'hygiene articles', 'misc. beverages'}) has confidence to whole milk
+({'whipped/sour cream', 'rolls/buns'}) has confidence to whole milk
+({'pastry', 'misc. beverages'}) has confidence to whole milk
+({'hard cheese', 'frozen vegetables'}) has confidence to other vegetables
+({'cat food', 'chocolate'}) has confidence to whole milk
+({'grapes', 'frozen meals'}) has confidence to tropical fruit
+({'pork', 'fruit/vegetable juice'}) has confidence to whole milk
+({'detergent', 'pickled vegetables'}) has confidence to other vegetables
+({'domestic eggs', 'specialty bar'}) has confidence to other vegetables
+({'hard cheese', 'chocolate'}) has confidence to other vegetables
+({'dessert', 'long life bakery product'}) has confidence to whole milk
+({'napkins', 'semi-finished bread'}) has confidence to whole milk
+({'frozen meals', 'misc. beverages'}) has confidence to whole milk
+({'frozen meals', 'root vegetables'}) has confidence to other vegetables
+({'rolls/buns', 'root vegetables'}) has confidence to whole milk
+({'pot plants', 'misc. beverages'}) has confidence to whole milk
+({'frozen vegetables', 'root vegetables'}) has confidence to whole milk
+({'beef', 'butter milk'}) has confidence to other vegetables
+({'herbs', 'misc. beverages'}) has confidence to whole milk
+({'butter milk', 'long life bakery product'}) has confidence to whole milk
+({'grapes', 'pip fruit'}) has confidence to tropical fruit
+({'cream cheese', 'beef'}) has confidence to whole milk
+({'herbs', 'whole milk'}) has confidence to other vegetables
+({'flour', 'oil'}) has confidence to whole milk
+({'onions', 'long life bakery product'}) has confidence to whole milk
+({'flour', 'cake bar'}) has confidence to whole milk
+({'napkins', 'whipped/sour cream'}) has confidence to whole milk
+({'oil', 'semi-finished bread'}) has confidence to other vegetables
+({'hard cheese', 'specialty bar'}) has confidence to other vegetables
+({'napkins', 'chocolate'}) has confidence to whole milk
+({'chocolate', 'pip fruit'}) has confidence to whole milk
+({'sausage', 'long life bakery product'}) has confidence to whole milk
+({'oil', 'sliced cheese'}) has confidence to yogurt
+({'pickled vegetables', 'pork'}) has confidence to other vegetables
+({'beef', 'beverages'}) has confidence to yogurt
+({'baking powder', 'sausage'}) has confidence to whole milk
+({'margarine', 'sliced cheese'}) has confidence to other vegetables
+({'beef', 'misc. beverages'}) has confidence to bottled water
+({'pastry', 'sliced cheese'}) has confidence to other vegetables
+({'waffles', 'hamburger meat'}) has confidence to whole milk
+({'curd', 'butter milk'}) has confidence to other vegetables
+({'processed cheese', 'brown bread'}) has confidence to whole milk
+({'herbs', 'coffee'}) has confidence to root vegetables
+({'beverages', 'chicken'}) has confidence to other vegetables
+({'soda', 'pot plants'}) has confidence to whole milk
+({'meat', 'processed cheese'}) has confidence to whole milk
+({'onions', 'sliced cheese'}) has confidence to whole milk
+({'herbs', 'brown bread'}) has confidence to root vegetables
+({'napkins', 'sugar'}) has confidence to whole milk
+({'curd', 'domestic eggs'}) has confidence to whole milk
+({'frozen vegetables', 'ham'}) has confidence to other vegetables
+({'sugar', 'berries'}) has confidence to whole milk
+({'tropical fruit', 'hamburger meat'}) has confidence to other vegetables
+({'oil', 'pip fruit'}) has confidence to other vegetables
+({'detergent', 'bottled beer'}) has confidence to whole milk
+({'butter', 'oil'}) has confidence to other vegetables
+({'cream cheese', 'frankfurter'}) has confidence to whole milk
+({'berries', 'root vegetables'}) has confidence to whole milk
+({'grapes', 'meat'}) has confidence to other vegetables
+({'candy', 'meat'}) has confidence to other vegetables
+({'white bread', 'butter milk'}) has confidence to whole milk
+({'cream cheese', 'oil'}) has confidence to other vegetables
+({'whipped/sour cream', 'chicken'}) has confidence to whole milk
+({'oil', 'fruit/vegetable juice'}) has confidence to whole milk
+({'whipped/sour cream', 'beef'}) has confidence to other vegetables
+({'whipped/sour cream', 'misc. beverages'}) has confidence to other vegetables
+({'butter', 'grapes'}) has confidence to other vegetables
+({'chicken', 'processed cheese'}) has confidence to whole milk
+({'semi-finished bread', 'root vegetables'}) has confidence to whole milk
+({'sugar', 'chicken'}) has confidence to whole milk
+({'long life bakery product', 'pip fruit'}) has confidence to whole milk
+({'butter', 'soft cheese'}) has confidence to whole milk
+({'detergent', 'butter'}) has confidence to other vegetables
+({'whipped/sour cream', 'hamburger meat'}) has confidence to other vegetables
+({'hamburger meat', 'bottled beer'}) has confidence to whole milk
+({'sugar', 'chocolate'}) has confidence to whole milk
+({'frozen vegetables', 'onions'}) has confidence to other vegetables
+({'margarine', 'soft cheese'}) has confidence to other vegetables
+({'pastry', 'margarine'}) has confidence to whole milk
+({'hamburger meat', 'bottled beer'}) has confidence to other vegetables
+({'whipped/sour cream', 'white bread'}) has confidence to whole milk
+({'baking powder', 'rolls/buns'}) has confidence to other vegetables
+({'sugar', 'whipped/sour cream'}) has confidence to whole milk
+({'hygiene articles', 'processed cheese'}) has confidence to whole milk
+({'ham', 'other vegetables'}) has confidence to whole milk
+({'sugar', 'root vegetables'}) has confidence to whole milk
+({'chicken', 'root vegetables'}) has confidence to other vegetables
+({'grapes', 'beef'}) has confidence to whole milk
+({'curd', 'herbs'}) has confidence to whole milk
+({'pastry', 'baking powder'}) has confidence to other vegetables
+({'hard cheese', 'canned fish'}) has confidence to other vegetables
+({'pastry', 'grapes'}) has confidence to other vegetables
+({'butter', 'misc. beverages'}) has confidence to whole milk
+({'baking powder', 'oil'}) has confidence to other vegetables
+({'hamburger meat', 'citrus fruit'}) has confidence to whole milk
+({'pickled vegetables', 'onions'}) has confidence to other vegetables
+({'dishes', 'brown bread'}) has confidence to whole milk
+({'whipped/sour cream', 'semi-finished bread'}) has confidence to whole milk
+({'baking powder', 'butter milk'}) has confidence to whole milk
+({'curd', 'napkins'}) has confidence to whole milk
+({'ham', 'candy'}) has confidence to rolls/buns
+({'hygiene articles', 'pasta'}) has confidence to whole milk
+({'ham', 'root vegetables'}) has confidence to other vegetables
+({'cake bar', 'newspapers'}) has confidence to whole milk
+({'onions', 'specialty bar'}) has confidence to other vegetables
+({'processed cheese', 'citrus fruit'}) has confidence to other vegetables
+({'newspapers', 'beef'}) has confidence to other vegetables
+({'pickled vegetables', 'chicken'}) has confidence to other vegetables
+({'pastry', 'hamburger meat'}) has confidence to whole milk
+({'waffles', 'candy'}) has confidence to soda
+({'herbs', 'pasta'}) has confidence to whole milk
+({'curd', 'frozen vegetables'}) has confidence to whole milk
+({'detergent', 'grapes'}) has confidence to other vegetables
+({'detergent', 'oil'}) has confidence to other vegetables
+({'hard cheese', 'root vegetables'}) has confidence to other vegetables
+({'beef', 'butter milk'}) has confidence to whole milk
+({'hard cheese', 'white bread'}) has confidence to yogurt
+({'white bread', 'pip fruit'}) has confidence to whole milk
+({'beef', 'meat'}) has confidence to other vegetables
+({'butter milk', 'soft cheese'}) has confidence to rolls/buns
+({'hard cheese', 'flour'}) has confidence to other vegetables
+({'UHT-milk', 'soft cheese'}) has confidence to rolls/buns
+({'soft cheese', 'UHT-milk'}) has confidence to rolls/buns
+({'salty snack', 'canned fish'}) has confidence to other vegetables
+({'cream cheese', 'sliced cheese'}) has confidence to whole milk
+({'butter', 'dishes'}) has confidence to whole milk
+({'detergent', 'ham'}) has confidence to other vegetables
+({'frozen vegetables', 'white bread'}) has confidence to whole milk
+({'cat food', 'dessert'}) has confidence to yogurt
+({'ice cream', 'soft cheese'}) has confidence to whole milk
+({'candy', 'root vegetables'}) has confidence to other vegetables
+({'herbs', 'beef'}) has confidence to root vegetables
+({'pickled vegetables', 'candy'}) has confidence to whole milk
+({'semi-finished bread', 'berries'}) has confidence to other vegetables
+({'sliced cheese', 'chicken'}) has confidence to other vegetables
+({'soft cheese', 'pot plants'}) has confidence to whole milk
+({'baking powder', 'sliced cheese'}) has confidence to other vegetables
+({'domestic eggs', 'butter'}) has confidence to whole milk
+({'soft cheese', 'beverages'}) has confidence to yogurt
+({'waffles', 'pork'}) has confidence to other vegetables
+({'frankfurter', 'hamburger meat'}) has confidence to whole milk
+({'butter', 'berries'}) has confidence to whole milk
+({'dishes', 'root vegetables'}) has confidence to other vegetables
+({'citrus fruit', 'root vegetables'}) has confidence to whole milk
+({'semi-finished bread', 'citrus fruit'}) has confidence to whole milk
+({'hamburger meat', 'root vegetables'}) has confidence to other vegetables
+({'detergent', 'frankfurter'}) has confidence to whole milk
+({'candy', 'chicken'}) has confidence to other vegetables
+({'beef', 'onions'}) has confidence to other vegetables
+({'detergent', 'bottled water'}) has confidence to whole milk
+({'hard cheese', 'beverages'}) has confidence to yogurt
+({'hamburger meat', 'processed cheese'}) has confidence to whole milk
+({'whipped/sour cream', 'butter milk'}) has confidence to other vegetables
+({'curd', 'pot plants'}) has confidence to whole milk
+({'herbs', 'baking powder'}) has confidence to whole milk
+({'curd', 'hamburger meat'}) has confidence to whole milk
+({'sliced cheese', 'long life bakery product'}) has confidence to whole milk
+({'waffles', 'frozen vegetables'}) has confidence to other vegetables
+({'waffles', 'whipped/sour cream'}) has confidence to whole milk
+({'frozen vegetables', 'chocolate'}) has confidence to whole milk
+({'cat food', 'herbs'}) has confidence to whole milk
+({'detergent', 'oil'}) has confidence to whole milk
+({'napkins', 'pickled vegetables'}) has confidence to whole milk
+({'whipped/sour cream', 'specialty chocolate'}) has confidence to whole milk
+({'baking powder', 'processed cheese'}) has confidence to other vegetables
+({'cream cheese', 'napkins'}) has confidence to whole milk
+({'domestic eggs', 'margarine'}) has confidence to whole milk
+({'cat food', 'dishes'}) has confidence to other vegetables
+({'pastry', 'whipped/sour cream'}) has confidence to whole milk
+({'dishes', 'coffee'}) has confidence to other vegetables
+({'pork', 'frozen meals'}) has confidence to whole milk
+({'margarine', 'hamburger meat'}) has confidence to other vegetables
+({'beef', 'hamburger meat'}) has confidence to whole milk
+({'chicken', 'processed cheese'}) has confidence to soda
+({'rolls/buns', 'root vegetables'}) has confidence to other vegetables
+({'herbs', 'white bread'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'root vegetables'}) has confidence to whole milk
+({'butter milk', 'pip fruit'}) has confidence to whole milk
+({'yogurt', 'flour'}) has confidence to other vegetables
+({'butter milk', 'salty snack'}) has confidence to other vegetables
+({'oil', 'specialty bar'}) has confidence to whole milk
+({'chocolate', 'misc. beverages'}) has confidence to soda
+({'soft cheese', 'salty snack'}) has confidence to whole milk
+({'cream cheese', 'citrus fruit'}) has confidence to other vegetables
+({'pot plants', 'rolls/buns'}) has confidence to whole milk
+({'chicken', 'citrus fruit'}) has confidence to other vegetables
+({'flour', 'frozen vegetables'}) has confidence to other vegetables
+({'yogurt', 'hamburger meat'}) has confidence to whole milk
+({'grapes', 'pork'}) has confidence to whole milk
+({'cream cheese', 'baking powder'}) has confidence to whole milk
+({'newspapers', 'soft cheese'}) has confidence to other vegetables
+({'butter', 'beef'}) has confidence to whole milk
+({'detergent', 'hamburger meat'}) has confidence to whole milk
+({'cream cheese', 'hygiene articles'}) has confidence to other vegetables
+({'flour', 'pot plants'}) has confidence to whole milk
+({'berries', 'pip fruit'}) has confidence to other vegetables
+({'soft cheese', 'root vegetables'}) has confidence to other vegetables
+({'tropical fruit', 'root vegetables'}) has confidence to whole milk
+({'yogurt', 'long life bakery product'}) has confidence to whole milk
+({'domestic eggs', 'root vegetables'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'chicken'}) has confidence to other vegetables
+({'baking powder', 'hamburger meat'}) has confidence to other vegetables
+({'cake bar', 'pickled vegetables'}) has confidence to whole milk
+({'butter', 'sliced cheese'}) has confidence to whole milk
+({'pickled vegetables', 'mustard'}) has confidence to whole milk
+({'hygiene articles', 'beverages'}) has confidence to other vegetables
+({'yogurt', 'specialty chocolate'}) has confidence to whole milk
+({'cat food', 'butter milk'}) has confidence to yogurt
+({'oil', 'soft cheese'}) has confidence to other vegetables
+({'bottled beer', 'frozen meals'}) has confidence to whole milk
+({'beef', 'beverages'}) has confidence to rolls/buns
+({'dishes', 'canned fish'}) has confidence to other vegetables
+({'sugar', 'specialty chocolate'}) has confidence to soda
+({'rolls/buns', 'hamburger meat'}) has confidence to whole milk
+({'detergent', 'pasta'}) has confidence to whole milk
+({'sausage', 'pip fruit'}) has confidence to whole milk
+({'herbs', 'citrus fruit'}) has confidence to whole milk
+({'cream cheese', 'sugar'}) has confidence to whole milk
+({'chocolate', 'sliced cheese'}) has confidence to other vegetables
+({'detergent', 'other vegetables'}) has confidence to whole milk
+({'herbs', 'fruit/vegetable juice'}) has confidence to root vegetables
+({'herbs', 'frozen vegetables'}) has confidence to whole milk
+({'canned beer', 'chicken'}) has confidence to other vegetables
+({'baking powder', 'rolls/buns'}) has confidence to whole milk
+({'whipped/sour cream', 'baking powder'}) has confidence to whole milk
+({'ice cream', 'margarine'}) has confidence to whole milk
+({'sugar', 'meat'}) has confidence to whole milk
+({'cat food', 'hamburger meat'}) has confidence to other vegetables
+({'sliced cheese', 'onions'}) has confidence to whole milk
+({'pork', 'sausage'}) has confidence to whole milk
+({'curd', 'salty snack'}) has confidence to other vegetables
+({'tropical fruit', 'pot plants'}) has confidence to whole milk
+({'soft cheese', 'onions'}) has confidence to other vegetables
+({'bottled water', 'processed cheese'}) has confidence to whole milk
+({'soft cheese', 'beverages'}) has confidence to other vegetables
+({'ice cream', 'baking powder'}) has confidence to whole milk
+({'UHT-milk', 'sliced cheese'}) has confidence to other vegetables
+({'pickled vegetables', 'ham'}) has confidence to whole milk
+({'ham', 'frankfurter'}) has confidence to other vegetables
+({'frozen vegetables', 'soft cheese'}) has confidence to whole milk
+({'soda', 'baking powder'}) has confidence to whole milk
+({'oil', 'root vegetables'}) has confidence to whole milk
+({'chewing gum', 'processed cheese'}) has confidence to soda
+({'sugar', 'onions'}) has confidence to other vegetables
+({'grapes', 'frozen vegetables'}) has confidence to whole milk
+({'hamburger meat', 'mustard'}) has confidence to whole milk
+({'dessert', 'baking powder'}) has confidence to whole milk
+({'sausage', 'chicken'}) has confidence to whole milk
+({'frozen vegetables', 'baking powder'}) has confidence to other vegetables
+({'oil', 'onions'}) has confidence to whole milk
+({'coffee', 'specialty bar'}) has confidence to whole milk
+({'napkins', 'chicken'}) has confidence to whole milk
+({'herbs', 'chocolate'}) has confidence to root vegetables
+({'whipped/sour cream', 'bottled beer'}) has confidence to whole milk
+({'margarine', 'onions'}) has confidence to whole milk
+({'domestic eggs', 'bottled water'}) has confidence to whole milk
+({'cream cheese', 'long life bakery product'}) has confidence to other vegetables
+({'ham', 'meat'}) has confidence to other vegetables
+({'soft cheese', 'coffee'}) has confidence to other vegetables
+({'waffles', 'herbs'}) has confidence to whole milk
+({'whipped/sour cream', 'mustard'}) has confidence to whole milk
+({'domestic eggs', 'long life bakery product'}) has confidence to whole milk
+({'fruit/vegetable juice', 'hamburger meat'}) has confidence to whole milk
+({'whipped/sour cream', 'chewing gum'}) has confidence to whole milk
+({'cat food', 'soft cheese'}) has confidence to other vegetables
+({'tropical fruit', 'mustard'}) has confidence to whole milk
+({'ham', 'brown bread'}) has confidence to whole milk
+({'pork', 'root vegetables'}) has confidence to other vegetables
+({'semi-finished bread', 'rolls/buns'}) has confidence to whole milk
+({'sugar', 'white bread'}) has confidence to whole milk
+({'chocolate', 'meat'}) has confidence to whole milk
+({'newspapers', 'onions'}) has confidence to other vegetables
+({'butter', 'pot plants'}) has confidence to whole milk
+({'other vegetables', 'long life bakery product'}) has confidence to whole milk
+({'newspapers', 'sliced cheese'}) has confidence to other vegetables
+({'domestic eggs', 'canned fish'}) has confidence to other vegetables
+({'newspapers', 'mustard'}) has confidence to whole milk
+({'butter', 'whipped/sour cream'}) has confidence to other vegetables
+({'pasta', 'beverages'}) has confidence to whole milk
+({'chewing gum', 'frozen vegetables'}) has confidence to whole milk
+({'domestic eggs', 'whipped/sour cream'}) has confidence to whole milk
+({'curd', 'dessert'}) has confidence to whole milk
+({'meat', 'frozen meals'}) has confidence to other vegetables
+({'frankfurter', 'tropical fruit'}) has confidence to whole milk
+({'brown bread', 'root vegetables'}) has confidence to whole milk
+({'flour', 'tropical fruit'}) has confidence to other vegetables
+({'butter', 'long life bakery product'}) has confidence to other vegetables
+({'yogurt', 'hygiene articles'}) has confidence to whole milk
+({'onions', 'long life bakery product'}) has confidence to yogurt
+({'frozen vegetables', 'long life bakery product'}) has confidence to whole milk
+({'hard cheese', 'beverages'}) has confidence to other vegetables
+({'curd', 'semi-finished bread'}) has confidence to other vegetables
+({'cat food', 'pickled vegetables'}) has confidence to whole milk
+({'soft cheese', 'beverages'}) has confidence to whole milk
+({'hard cheese', 'root vegetables'}) has confidence to whole milk
+({'domestic eggs', 'sliced cheese'}) has confidence to whole milk
+({'flour', 'pickled vegetables'}) has confidence to whole milk
+({'flour', 'herbs'}) has confidence to whole milk
+({'bottled water', 'processed cheese'}) has confidence to soda
+({'ice cream', 'fruit/vegetable juice'}) has confidence to other vegetables
+({'ice cream', 'butter'}) has confidence to whole milk
+({'dessert', 'mustard'}) has confidence to whole milk
+({'ice cream', 'candy'}) has confidence to soda
+({'hard cheese', 'hygiene articles'}) has confidence to whole milk
+({'curd', 'whipped/sour cream'}) has confidence to whole milk
+({'hard cheese', 'dishes'}) has confidence to other vegetables
+({'pastry', 'dishes'}) has confidence to other vegetables
+({'herbs', 'bottled beer'}) has confidence to whole milk
+({'oil', 'coffee'}) has confidence to whole milk
+({'waffles', 'hygiene articles'}) has confidence to whole milk
+({'butter milk', 'root vegetables'}) has confidence to whole milk
+({'domestic eggs', 'dishes'}) has confidence to other vegetables
+({'dishes', 'brown bread'}) has confidence to other vegetables
+({'chewing gum', 'candy'}) has confidence to soda
+({'whole milk', 'onions'}) has confidence to other vegetables
+({'margarine', 'soft cheese'}) has confidence to whole milk
+({'hard cheese', 'margarine'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'pork'}) has confidence to whole milk
+({'sugar', 'pot plants'}) has confidence to whole milk
+({'cream cheese', 'whipped/sour cream'}) has confidence to whole milk
+({'dessert', 'hamburger meat'}) has confidence to other vegetables
+({'yogurt', 'oil'}) has confidence to other vegetables
+({'frozen vegetables', 'fruit/vegetable juice'}) has confidence to whole milk
+({'butter', 'citrus fruit'}) has confidence to whole milk
+({'waffles', 'herbs'}) has confidence to other vegetables
+({'pork', 'chicken'}) has confidence to whole milk
+({'flour', 'soft cheese'}) has confidence to other vegetables
+({'baking powder', 'root vegetables'}) has confidence to other vegetables
+({'whipped/sour cream', 'pickled vegetables'}) has confidence to whole milk
+({'pastry', 'berries'}) has confidence to whole milk
+({'baking powder', 'white bread'}) has confidence to other vegetables
+({'waffles', 'butter milk'}) has confidence to yogurt
+({'cat food', 'fruit/vegetable juice'}) has confidence to other vegetables
+({'curd', 'hard cheese'}) has confidence to whole milk
+({'cake bar', 'pork'}) has confidence to whole milk
+({'hard cheese', 'yogurt'}) has confidence to whole milk
+({'sugar', 'waffles'}) has confidence to other vegetables
+({'whipped/sour cream', 'citrus fruit'}) has confidence to other vegetables
+({'herbs', 'citrus fruit'}) has confidence to other vegetables
+({'soft cheese', 'citrus fruit'}) has confidence to other vegetables
+({'beef', 'bottled beer'}) has confidence to other vegetables
+({'mustard', 'processed cheese'}) has confidence to whole milk
+({'detergent', 'herbs'}) has confidence to whole milk
+({'soft cheese', 'frankfurter'}) has confidence to rolls/buns
+({'detergent', 'specialty chocolate'}) has confidence to whole milk
+({'bottled beer', 'hamburger meat'}) has confidence to other vegetables
+({'pastry', 'chicken'}) has confidence to other vegetables
+({'grapes', 'tropical fruit'}) has confidence to other vegetables
+({'semi-finished bread', 'oil'}) has confidence to other vegetables
+({'domestic eggs', 'chicken'}) has confidence to whole milk
+({'flour', 'chicken'}) has confidence to whole milk
+({'beef', 'tropical fruit'}) has confidence to whole milk
+({'pip fruit', 'root vegetables'}) has confidence to whole milk
+({'specialty chocolate', 'root vegetables'}) has confidence to whole milk
+({'curd', 'onions'}) has confidence to yogurt
+({'beef', 'baking powder'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'chicken'}) has confidence to whole milk
+({'pastry', 'butter milk'}) has confidence to yogurt
+({'napkins', 'ham'}) has confidence to whole milk
+({'sliced cheese', 'tropical fruit'}) has confidence to yogurt
+({'pastry', 'misc. beverages'}) has confidence to soda
+({'soft cheese', 'bottled beer'}) has confidence to other vegetables
+({'grapes', 'frozen meals'}) has confidence to other vegetables
+({'candy', 'brown bread'}) has confidence to yogurt
+({'oil', 'coffee'}) has confidence to other vegetables
+({'herbs', 'soft cheese'}) has confidence to other vegetables
+({'beef', 'beverages'}) has confidence to other vegetables
+({'herbs', 'butter milk'}) has confidence to root vegetables
+({'cream cheese', 'berries'}) has confidence to yogurt
+({'frozen vegetables', 'bottled beer'}) has confidence to whole milk
+({'herbs', 'onions'}) has confidence to whole milk
+({'whipped/sour cream', 'soft cheese'}) has confidence to other vegetables
+({'specialty chocolate', 'misc. beverages'}) has confidence to soda
+({'hard cheese', 'cat food'}) has confidence to whole milk
+({'hard cheese', 'UHT-milk'}) has confidence to rolls/buns
+({'beef', 'soft cheese'}) has confidence to other vegetables
+({'waffles', 'baking powder'}) has confidence to whole milk
+({'beef', 'sliced cheese'}) has confidence to other vegetables
+({'dishes', 'semi-finished bread'}) has confidence to whole milk
+({'cream cheese', 'pastry'}) has confidence to other vegetables
+({'cream cheese', 'whipped/sour cream'}) has confidence to yogurt
+({'whipped/sour cream', 'ham'}) has confidence to other vegetables
+({'semi-finished bread', 'onions'}) has confidence to whole milk
+({'napkins', 'grapes'}) has confidence to other vegetables
+({'cream cheese', 'domestic eggs'}) has confidence to whole milk
+({'pot plants', 'citrus fruit'}) has confidence to whole milk
+({'onions', 'pot plants'}) has confidence to whole milk
+({'flour', 'root vegetables'}) has confidence to whole milk
+({'cream cheese', 'baking powder'}) has confidence to other vegetables
+({'butter milk', 'hamburger meat'}) has confidence to yogurt
+({'chewing gum', 'frozen meals'}) has confidence to whole milk
+({'ice cream', 'whipped/sour cream'}) has confidence to other vegetables
+({'pastry', 'pickled vegetables'}) has confidence to whole milk
+({'baking powder', 'sliced cheese'}) has confidence to whole milk
+({'newspapers', 'cake bar'}) has confidence to whole milk
+({'baking powder', 'brown bread'}) has confidence to whole milk
+({'hard cheese', 'brown bread'}) has confidence to whole milk
+({'domestic eggs', 'white bread'}) has confidence to whole milk
+({'hygiene articles', 'soft cheese'}) has confidence to whole milk
+({'napkins', 'candy'}) has confidence to other vegetables
+({'newspapers', 'butter'}) has confidence to whole milk
+({'butter milk', 'baking powder'}) has confidence to whole milk
+({'butter milk', 'root vegetables'}) has confidence to other vegetables
+({'detergent', 'salty snack'}) has confidence to whole milk
+({'bottled beer', 'hamburger meat'}) has confidence to whole milk
+({'sugar', 'tropical fruit'}) has confidence to whole milk
+({'mustard', 'misc. beverages'}) has confidence to whole milk
+({'margarine', 'butter milk'}) has confidence to other vegetables
+({'flour', 'hamburger meat'}) has confidence to whole milk
+({'whipped/sour cream', 'canned fish'}) has confidence to other vegetables
+({'ham', 'chicken'}) has confidence to whole milk
+({'domestic eggs', 'pasta'}) has confidence to whole milk
+({'whipped/sour cream', 'onions'}) has confidence to other vegetables
+({'detergent', 'cream cheese'}) has confidence to other vegetables
+({'cream cheese', 'pastry'}) has confidence to whole milk
+({'cat food', 'hard cheese'}) has confidence to whole milk
+({'margarine', 'hygiene articles'}) has confidence to whole milk
+({'butter milk', 'sliced cheese'}) has confidence to yogurt
+({'curd', 'butter'}) has confidence to whole milk
+({'sugar', 'domestic eggs'}) has confidence to whole milk
+({'curd', 'herbs'}) has confidence to root vegetables
+({'frozen vegetables', 'chicken'}) has confidence to other vegetables
+({'herbs', 'dishes'}) has confidence to other vegetables
+({'herbs', 'butter'}) has confidence to whole milk
+({'cake bar', 'pastry'}) has confidence to whole milk
+({'ice cream', 'herbs'}) has confidence to other vegetables
+({'frozen vegetables', 'chocolate'}) has confidence to other vegetables
+({'herbs', 'ham'}) has confidence to other vegetables
+({'curd', 'frozen meals'}) has confidence to yogurt
+({'butter', 'baking powder'}) has confidence to whole milk
+({'yogurt', 'pot plants'}) has confidence to whole milk
+({'domestic eggs', 'misc. beverages'}) has confidence to whole milk
+({'sugar', 'napkins'}) has confidence to whole milk
+({'chocolate', 'onions'}) has confidence to other vegetables
+({'ham', 'baking powder'}) has confidence to whole milk
+({'napkins', 'detergent'}) has confidence to whole milk
+({'whipped/sour cream', 'other vegetables'}) has confidence to whole milk
+({'chocolate', 'hamburger meat'}) has confidence to whole milk
+({'pasta', 'frankfurter'}) has confidence to whole milk
+({'yogurt', 'white bread'}) has confidence to whole milk
+({'flour', 'sliced cheese'}) has confidence to whole milk
+({'butter', 'coffee'}) has confidence to whole milk
+({'root vegetables', 'brown bread'}) has confidence to whole milk
+({'pickled vegetables', 'baking powder'}) has confidence to other vegetables
+({'frankfurter', 'bottled beer'}) has confidence to whole milk
+({'hard cheese', 'cat food'}) has confidence to other vegetables
+({'curd', 'pip fruit'}) has confidence to whole milk
+({'detergent', 'bottled water'}) has confidence to other vegetables
+({'curd', 'pasta'}) has confidence to whole milk
+({'white bread', 'coffee'}) has confidence to whole milk
+({'cake bar', 'other vegetables'}) has confidence to whole milk
+({'chocolate', 'soft cheese'}) has confidence to whole milk
+({'baking powder', 'sausage'}) has confidence to other vegetables
+({'canned beer', 'soft cheese'}) has confidence to rolls/buns
+({'ham', 'root vegetables'}) has confidence to whole milk
+({'dessert', 'salty snack'}) has confidence to other vegetables
+({'citrus fruit', 'root vegetables'}) has confidence to other vegetables
+({'flour', 'ham'}) has confidence to whole milk
+({'flour', 'chicken'}) has confidence to other vegetables
+({'beef', 'sausage'}) has confidence to whole milk
+({'sugar', 'beverages'}) has confidence to whole milk
+({'chicken', 'root vegetables'}) has confidence to whole milk
+({'candy', 'pork'}) has confidence to whole milk
+({'sugar', 'mustard'}) has confidence to whole milk
+({'frankfurter', 'fruit/vegetable juice'}) has confidence to whole milk
+({'sugar', 'citrus fruit'}) has confidence to whole milk
+({'semi-finished bread', 'soft cheese'}) has confidence to whole milk
+({'detergent', 'curd'}) has confidence to other vegetables
+({'ham', 'candy'}) has confidence to other vegetables
+({'hard cheese', 'oil'}) has confidence to other vegetables
+({'yogurt', 'flour'}) has confidence to whole milk
+({'ice cream', 'citrus fruit'}) has confidence to other vegetables
+({'waffles', 'root vegetables'}) has confidence to whole milk
+({'sugar', 'citrus fruit'}) has confidence to other vegetables
+({'hard cheese', 'whipped/sour cream'}) has confidence to other vegetables
+({'whole milk', 'herbs'}) has confidence to other vegetables
+({'salty snack', 'onions'}) has confidence to other vegetables
+({'curd', 'yogurt'}) has confidence to whole milk
+({'detergent', 'sausage'}) has confidence to whole milk
+({'detergent', 'domestic eggs'}) has confidence to other vegetables
+({'ham', 'fruit/vegetable juice'}) has confidence to whole milk
+({'yogurt', 'beef'}) has confidence to whole milk
+({'pickled vegetables', 'root vegetables'}) has confidence to other vegetables
+({'hard cheese', 'long life bakery product'}) has confidence to other vegetables
+({'butter milk', 'pasta'}) has confidence to whole milk
+({'domestic eggs', 'hamburger meat'}) has confidence to other vegetables
+({'ham', 'meat'}) has confidence to whole milk
+({'cream cheese', 'misc. beverages'}) has confidence to whole milk
+({'curd', 'onions'}) has confidence to whole milk
+({'pastry', 'hygiene articles'}) has confidence to whole milk
+({'frozen vegetables', 'other vegetables'}) has confidence to whole milk
+({'sugar', 'soft cheese'}) has confidence to other vegetables
+({'cake bar', 'frankfurter'}) has confidence to whole milk
+({'canned beer', 'semi-finished bread'}) has confidence to whole milk
+({'butter', 'tropical fruit'}) has confidence to other vegetables
+({'dessert', 'pork'}) has confidence to other vegetables
+({'cake bar', 'margarine'}) has confidence to whole milk
+({'waffles', 'beef'}) has confidence to whole milk
+({'soft cheese', 'long life bakery product'}) has confidence to whole milk
+({'detergent', 'chicken'}) has confidence to other vegetables
+({'butter', 'bottled beer'}) has confidence to whole milk
+({'chewing gum', 'root vegetables'}) has confidence to whole milk
+({'hard cheese', 'specialty chocolate'}) has confidence to other vegetables
+({'detergent', 'butter'}) has confidence to whole milk
+({'yogurt', 'bottled beer'}) has confidence to whole milk
+({'hygiene articles', 'pork'}) has confidence to whole milk
+({'baking powder', 'soft cheese'}) has confidence to whole milk
+({'specialty chocolate', 'white bread'}) has confidence to whole milk
+({'cat food', 'whipped/sour cream'}) has confidence to whole milk
+({'cat food', 'soft cheese'}) has confidence to yogurt
+({'dessert', 'chicken'}) has confidence to other vegetables
+({'whipped/sour cream', 'chicken'}) has confidence to other vegetables
+({'tropical fruit', 'sliced cheese'}) has confidence to other vegetables
+({'sugar', 'soft cheese'}) has confidence to whole milk
+({'herbs', 'specialty chocolate'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'root vegetables'}) has confidence to other vegetables
+({'baking powder', 'citrus fruit'}) has confidence to whole milk
+({'ham', 'chicken'}) has confidence to other vegetables
+({'pot plants', 'specialty bar'}) has confidence to whole milk
+({'sugar', 'pasta'}) has confidence to whole milk
+({'domestic eggs', 'baking powder'}) has confidence to whole milk
+({'butter', 'oil'}) has confidence to root vegetables
+({'dishes', 'soft cheese'}) has confidence to other vegetables
+({'white bread', 'mustard'}) has confidence to whole milk
+({'grapes', 'hygiene articles'}) has confidence to other vegetables
+({'whipped/sour cream', 'coffee'}) has confidence to whole milk
+({'specialty bar', 'chicken'}) has confidence to other vegetables
+({'herbs', 'bottled beer'}) has confidence to other vegetables
+({'cake bar', 'tropical fruit'}) has confidence to whole milk
+({'herbs', 'frankfurter'}) has confidence to whole milk
+({'butter', 'long life bakery product'}) has confidence to whole milk
+({'domestic eggs', 'other vegetables'}) has confidence to whole milk
+({'long life bakery product', 'misc. beverages'}) has confidence to whole milk
+({'sausage', 'root vegetables'}) has confidence to whole milk
+({'detergent', 'pastry'}) has confidence to other vegetables
+({'yogurt', 'frozen meals'}) has confidence to whole milk
+({'white bread', 'berries'}) has confidence to whole milk
+({'frozen vegetables', 'pip fruit'}) has confidence to whole milk
+({'whipped/sour cream', 'dessert'}) has confidence to whole milk
+({'sugar', 'sliced cheese'}) has confidence to whole milk
+({'herbs', 'tropical fruit'}) has confidence to whole milk
+({'pasta', 'pork'}) has confidence to whole milk
+({'processed cheese', 'misc. beverages'}) has confidence to soda
+({'hard cheese', 'sliced cheese'}) has confidence to other vegetables
+({'whipped/sour cream', 'citrus fruit'}) has confidence to whole milk
+({'pastry', 'semi-finished bread'}) has confidence to whole milk
+({'pastry', 'sliced cheese'}) has confidence to whole milk
+({'pastry', 'butter'}) has confidence to whole milk
+({'butter milk', 'onions'}) has confidence to whole milk
+({'butter', 'dessert'}) has confidence to whole milk
+({'fruit/vegetable juice', 'processed cheese'}) has confidence to whole milk
+({'cream cheese', 'hygiene articles'}) has confidence to yogurt
+({'margarine', 'root vegetables'}) has confidence to other vegetables
+({'salty snack', 'pip fruit'}) has confidence to whole milk
+({'onions', 'long life bakery product'}) has confidence to other vegetables
+({'yogurt', 'sliced cheese'}) has confidence to whole milk
+({'pork', 'specialty bar'}) has confidence to other vegetables
+({'onions', 'pip fruit'}) has confidence to whole milk
+({'tropical fruit', 'frozen meals'}) has confidence to whole milk
+({'domestic eggs', 'herbs'}) has confidence to root vegetables
+({'berries', 'pot plants'}) has confidence to whole milk
+({'newspapers', 'grapes'}) has confidence to whole milk
+({'pickled vegetables', 'pork'}) has confidence to whole milk
+({'grapes', 'chicken'}) has confidence to whole milk
+({'baking powder', 'hygiene articles'}) has confidence to whole milk
+({'waffles', 'herbs'}) has confidence to root vegetables
+({'semi-finished bread', 'other vegetables'}) has confidence to whole milk
+({'frankfurter', 'pasta'}) has confidence to whole milk
+({'baking powder', 'chocolate'}) has confidence to whole milk
+({'curd', 'tropical fruit'}) has confidence to other vegetables
+({'curd', 'oil'}) has confidence to whole milk
+({'semi-finished bread', 'processed cheese'}) has confidence to whole milk
+({'whipped/sour cream', 'ham'}) has confidence to whole milk
+({'baking powder', 'berries'}) has confidence to whole milk
+({'sliced cheese', 'root vegetables'}) has confidence to other vegetables
+({'sliced cheese', 'bottled beer'}) has confidence to whole milk
+({'curd', 'pork'}) has confidence to whole milk
+({'yogurt', 'butter'}) has confidence to whole milk
+({'sugar', 'specialty chocolate'}) has confidence to whole milk
+({'ham', 'sliced cheese'}) has confidence to whole milk
+({'dishes', 'sliced cheese'}) has confidence to other vegetables
+({'baking powder', 'ham'}) has confidence to whole milk
+({'chocolate', 'long life bakery product'}) has confidence to whole milk
+({'pastry', 'chewing gum'}) has confidence to soda
+({'cream cheese', 'hard cheese'}) has confidence to other vegetables
+({'whipped/sour cream', 'hygiene articles'}) has confidence to whole milk
+({'oil', 'tropical fruit'}) has confidence to other vegetables
+({'cat food', 'butter'}) has confidence to whole milk
+({'sugar', 'hard cheese'}) has confidence to whole milk
+({'ice cream', 'curd'}) has confidence to other vegetables
+({'cream cheese', 'bottled beer'}) has confidence to other vegetables
+({'beverages', 'citrus fruit'}) has confidence to other vegetables
+({'cake bar', 'sausage'}) has confidence to whole milk
+({'sugar', 'sausage'}) has confidence to whole milk
+({'cake bar', 'hygiene articles'}) has confidence to whole milk
+({'chocolate', 'sliced cheese'}) has confidence to tropical fruit
+({'onions', 'frozen meals'}) has confidence to other vegetables
+({'napkins', 'butter'}) has confidence to whole milk
+({'herbs', 'long life bakery product'}) has confidence to root vegetables
+({'butter milk', 'ham'}) has confidence to whole milk
+({'frankfurter', 'sliced cheese'}) has confidence to yogurt
+({'ham', 'berries'}) has confidence to yogurt
+({'grapes', 'frozen meals'}) has confidence to whole milk
+({'chewing gum', 'tropical fruit'}) has confidence to whole milk
+({'soft cheese', 'sliced cheese'}) has confidence to other vegetables
+({'waffles', 'margarine'}) has confidence to whole milk
+({'hamburger meat', 'specialty bar'}) has confidence to other vegetables
+({'fruit/vegetable juice', 'long life bakery product'}) has confidence to whole milk
+({'ice cream', 'butter'}) has confidence to other vegetables
+({'dessert', 'bottled beer'}) has confidence to whole milk
+({'detergent', 'napkins'}) has confidence to whole milk
+({'onions', 'sausage'}) has confidence to other vegetables
+({'curd', 'chicken'}) has confidence to whole milk
+({'oil', 'long life bakery product'}) has confidence to whole milk
+({'cream cheese', 'whipped/sour cream'}) has confidence to other vegetables
+({'detergent', 'frozen vegetables'}) has confidence to whole milk
+({'detergent', 'chocolate'}) has confidence to other vegetables
+({'grapes', 'semi-finished bread'}) has confidence to other vegetables
+({'dessert', 'ham'}) has confidence to whole milk
+({'cat food', 'root vegetables'}) has confidence to other vegetables
+({'waffles', 'butter milk'}) has confidence to other vegetables
+({'sliced cheese', 'frozen meals'}) has confidence to yogurt
+({'pickled vegetables', 'citrus fruit'}) has confidence to other vegetables
+({'white bread', 'pot plants'}) has confidence to whole milk
+({'soda', 'semi-finished bread'}) has confidence to whole milk
+({'pastry', 'root vegetables'}) has confidence to whole milk
+({'curd', 'grapes'}) has confidence to other vegetables
+({'whipped/sour cream', 'sliced cheese'}) has confidence to other vegetables
+({'hard cheese', 'fruit/vegetable juice'}) has confidence to whole milk
+({'butter milk', 'tropical fruit'}) has confidence to whole milk
+({'meat', 'processed cheese'}) has confidence to soda
+({'detergent', 'shopping bags'}) has confidence to whole milk
+({'salty snack', 'long life bakery product'}) has confidence to whole milk
+({'cream cheese', 'soft cheese'}) has confidence to whole milk
+({'beef', 'pork'}) has confidence to whole milk
+({'napkins', 'processed cheese'}) has confidence to whole milk
+({'dishes', 'soft cheese'}) has confidence to whole milk
+({'oil', 'root vegetables'}) has confidence to other vegetables
+({'hygiene articles', 'rolls/buns'}) has confidence to whole milk
+({'curd', 'flour'}) has confidence to whole milk
+({'butter milk', 'meat'}) has confidence to rolls/buns
+({'onions', 'hamburger meat'}) has confidence to other vegetables
+({'pasta', 'mustard'}) has confidence to whole milk
+({'herbs', 'brown bread'}) has confidence to whole milk
+({'ice cream', 'berries'}) has confidence to whole milk
+({'flour', 'shopping bags'}) has confidence to whole milk
+({'margarine', 'onions'}) has confidence to yogurt
+({'newspapers', 'chocolate'}) has confidence to whole milk
+({'frozen vegetables', 'sliced cheese'}) has confidence to root vegetables
+({'sugar', 'soda'}) has confidence to whole milk
+({'hard cheese', 'herbs'}) has confidence to whole milk
+({'sliced cheese', 'beverages'}) has confidence to rolls/buns
+({'chewing gum', 'pasta'}) has confidence to whole milk
+({'cream cheese', 'curd'}) has confidence to whole milk
+({'grapes', 'hamburger meat'}) has confidence to whole milk
+({'domestic eggs', 'pickled vegetables'}) has confidence to whole milk
+({'sugar', 'cream cheese'}) has confidence to whole milk
+({'beef', 'canned fish'}) has confidence to other vegetables
+({'oil', 'pip fruit'}) has confidence to whole milk
+({'chicken', 'brown bread'}) has confidence to whole milk
+({'pot plants', 'bottled beer'}) has confidence to whole milk
+({'pickled vegetables', 'chicken'}) has confidence to whole milk
+({'napkins', 'sliced cheese'}) has confidence to other vegetables
+({'pork', 'canned fish'}) has confidence to other vegetables
+({'UHT-milk', 'onions'}) has confidence to other vegetables
+({'frozen vegetables', 'mustard'}) has confidence to whole milk
+({'onions', 'pip fruit'}) has confidence to other vegetables
+({'canned fish', 'coffee'}) has confidence to other vegetables
+({'grapes', 'brown bread'}) has confidence to other vegetables
+({'butter milk', 'dessert'}) has confidence to whole milk
+({'herbs', 'processed cheese'}) has confidence to other vegetables
+({'dessert', 'oil'}) has confidence to other vegetables
+({'frozen vegetables', 'chewing gum'}) has confidence to whole milk
+({'canned beer', 'pot plants'}) has confidence to whole milk
+({'yogurt', 'onions'}) has confidence to other vegetables
+({'napkins', 'frozen vegetables'}) has confidence to whole milk
+({'pickled vegetables', 'butter milk'}) has confidence to whole milk
+({'chocolate', 'pork'}) has confidence to whole milk
+({'herbs', 'butter milk'}) has confidence to whole milk
+({'grapes', 'pork'}) has confidence to other vegetables
+({'white bread', 'onions'}) has confidence to other vegetables
+({'hard cheese', 'herbs'}) has confidence to root vegetables
+({'sugar', 'ham'}) has confidence to whole milk
+({'curd', 'baking powder'}) has confidence to whole milk
+({'misc. beverages', 'frozen meals'}) has confidence to whole milk
+({'cream cheese', 'detergent'}) has confidence to other vegetables
+({'meat', 'root vegetables'}) has confidence to other vegetables
+({'oil', 'long life bakery product'}) has confidence to other vegetables
+({'soft cheese', 'pork'}) has confidence to other vegetables
+({'curd', 'long life bakery product'}) has confidence to whole milk
+({'herbs', 'beverages'}) has confidence to other vegetables
+({'curd', 'ham'}) has confidence to other vegetables
+({'detergent', 'dishes'}) has confidence to whole milk
+({'sliced cheese', 'processed cheese'}) has confidence to other vegetables
+({'flour', 'waffles'}) has confidence to whole milk
+({'butter milk', 'dishes'}) has confidence to other vegetables
+({'cream cheese', 'cat food'}) has confidence to whole milk
+({'detergent', 'whipped/sour cream'}) has confidence to other vegetables
+({'beef', 'mustard'}) has confidence to whole milk
+({'cake bar', 'oil'}) has confidence to whole milk
+({'specialty chocolate', 'frozen vegetables'}) has confidence to whole milk
+({'herbs', 'grapes'}) has confidence to other vegetables
+({'napkins', 'flour'}) has confidence to whole milk
+({'hard cheese', 'sausage'}) has confidence to other vegetables
+({'oil', 'frankfurter'}) has confidence to whole milk
+({'butter milk', 'pip fruit'}) has confidence to other vegetables
+({'beef', 'pip fruit'}) has confidence to whole milk
+({'detergent', 'hard cheese'}) has confidence to whole milk
+({'sliced cheese', 'bottled beer'}) has confidence to other vegetables
+({'pickled vegetables', 'hygiene articles'}) has confidence to whole milk
+({'domestic eggs', 'herbs'}) has confidence to whole milk
+({'chocolate', 'pasta'}) has confidence to whole milk
+({'soft cheese', 'tropical fruit'}) has confidence to yogurt
+({'butter', 'sausage'}) has confidence to whole milk
+({'oil', 'specialty bar'}) has confidence to other vegetables
+({'waffles', 'processed cheese'}) has confidence to whole milk
+({'hygiene articles', 'sausage'}) has confidence to whole milk
+({'yogurt', 'semi-finished bread'}) has confidence to whole milk
+({'ham', 'onions'}) has confidence to whole milk
+({'curd', 'cream cheese'}) has confidence to other vegetables
+({'whipped/sour cream', 'beef'}) has confidence to whole milk
+({'soft cheese', 'canned fish'}) has confidence to other vegetables
+({'oil', 'citrus fruit'}) has confidence to whole milk
+({'herbs', 'rolls/buns'}) has confidence to root vegetables
+({'margarine', 'butter'}) has confidence to other vegetables
+({'domestic eggs', 'chewing gum'}) has confidence to whole milk
+({'oil', 'rolls/buns'}) has confidence to whole milk
+({'yogurt', 'soft cheese'}) has confidence to whole milk
+({'hygiene articles', 'semi-finished bread'}) has confidence to whole milk
+({'newspapers', 'brown bread'}) has confidence to whole milk
+({'herbs', 'sausage'}) has confidence to whole milk
+({'pastry', 'whipped/sour cream'}) has confidence to other vegetables
+({'root vegetables', 'pip fruit'}) has confidence to other vegetables
+({'candy', 'chicken'}) has confidence to whole milk
+({'soft cheese', 'pasta'}) has confidence to whole milk
+({'pork', 'pip fruit'}) has confidence to other vegetables
+({'hard cheese', 'beef'}) has confidence to rolls/buns
+({'other vegetables', 'pot plants'}) has confidence to whole milk
+({'detergent', 'whipped/sour cream'}) has confidence to whole milk
+({'butter milk', 'onions'}) has confidence to other vegetables
+({'pork', 'coffee'}) has confidence to whole milk
+({'canned fish', 'root vegetables'}) has confidence to other vegetables
+({'beef', 'dessert'}) has confidence to other vegetables
+({'ice cream', 'beef'}) has confidence to whole milk
+({'pasta', 'rolls/buns'}) has confidence to whole milk
+({'butter milk', 'white bread'}) has confidence to yogurt
+({'yogurt', 'baking powder'}) has confidence to other vegetables
+({'grapes', 'pip fruit'}) has confidence to other vegetables
+({'butter', 'fruit/vegetable juice'}) has confidence to whole milk
+({'flour', 'candy'}) has confidence to other vegetables
+({'hygiene articles', 'onions'}) has confidence to whole milk
+({'long life bakery product', 'mustard'}) has confidence to whole milk
+({'detergent', 'misc. beverages'}) has confidence to other vegetables
+({'curd', 'margarine'}) has confidence to whole milk
+({'meat', 'berries'}) has confidence to whole milk
+({'semi-finished bread', 'canned fish'}) has confidence to other vegetables
+({'hard cheese', 'domestic eggs'}) has confidence to whole milk
+({'other vegetables', 'sliced cheese'}) has confidence to whole milk
+({'cat food', 'pork'}) has confidence to whole milk
+({'sliced cheese', 'citrus fruit'}) has confidence to whole milk
+({'whipped/sour cream', 'white bread'}) has confidence to other vegetables
+({'butter', 'tropical fruit'}) has confidence to whole milk
+({'shopping bags', 'root vegetables'}) has confidence to other vegetables
+({'bottled water', 'white bread'}) has confidence to whole milk
+({'butter', 'candy'}) has confidence to other vegetables
+({'domestic eggs', 'beef'}) has confidence to whole milk
+({'hamburger meat', 'pip fruit'}) has confidence to other vegetables
+({'flour', 'soft cheese'}) has confidence to whole milk
+({'domestic eggs', 'grapes'}) has confidence to other vegetables
+({'detergent', 'candy'}) has confidence to whole milk
+({'rolls/buns', 'chicken'}) has confidence to whole milk
+({'yogurt', 'meat'}) has confidence to other vegetables
+({'sugar', 'frozen vegetables'}) has confidence to other vegetables
+({'canned beer', 'white bread'}) has confidence to other vegetables
+({'baking powder', 'pip fruit'}) has confidence to whole milk
+({'domestic eggs', 'fruit/vegetable juice'}) has confidence to whole milk
+({'pasta', 'chicken'}) has confidence to whole milk
+({'soft cheese', 'frozen meals'}) has confidence to other vegetables
+({'chewing gum', 'ham'}) has confidence to whole milk
+({'pork', 'hamburger meat'}) has confidence to other vegetables
+({'whole milk', 'herbs'}) has confidence to root vegetables
+({'frankfurter', 'chicken'}) has confidence to other vegetables
+({'domestic eggs', 'herbs'}) has confidence to other vegetables
+({'cake bar', 'baking powder'}) has confidence to whole milk
+({'sugar', 'salty snack'}) has confidence to whole milk
+({'domestic eggs', 'yogurt'}) has confidence to whole milk
+({'cake bar', 'flour'}) has confidence to whole milk
+({'cat food', 'tropical fruit'}) has confidence to whole milk
+({'tropical fruit', 'chicken'}) has confidence to other vegetables
+({'yogurt', 'pastry'}) has confidence to whole milk
+({'semi-finished bread', 'chicken'}) has confidence to whole milk
+({'baking powder', 'oil'}) has confidence to whole milk
+({'hygiene articles', 'pip fruit'}) has confidence to whole milk
+({'grapes', 'dessert'}) has confidence to other vegetables
+({'herbs', 'citrus fruit'}) has confidence to root vegetables
+({'ice cream', 'waffles'}) has confidence to other vegetables
+({'sugar', 'pip fruit'}) has confidence to whole milk
+({'white bread', 'hygiene articles'}) has confidence to whole milk
+({'sugar', 'frankfurter'}) has confidence to whole milk
+({'cream cheese', 'dishes'}) has confidence to whole milk
+({'domestic eggs', 'canned beer'}) has confidence to whole milk
+({'sliced cheese', 'misc. beverages'}) has confidence to other vegetables
+({'ice cream', 'hygiene articles'}) has confidence to whole milk
+({'curd', 'sugar'}) has confidence to whole milk
+({'herbs', 'chicken'}) has confidence to other vegetables
+({'chewing gum', 'long life bakery product'}) has confidence to soda
+({'dessert', 'semi-finished bread'}) has confidence to other vegetables
+({'waffles', 'onions'}) has confidence to whole milk
+({'hard cheese', 'chicken'}) has confidence to other vegetables
+({'soda', 'dishes'}) has confidence to whole milk
+({'hard cheese', 'baking powder'}) has confidence to whole milk
+({'sugar', 'cream cheese'}) has confidence to other vegetables
+({'yogurt', 'hamburger meat'}) has confidence to other vegetables
+({'domestic eggs', 'salty snack'}) has confidence to whole milk
+({'ice cream', 'pastry'}) has confidence to whole milk
+({'waffles', 'brown bread'}) has confidence to whole milk
+({'hygiene articles', 'soft cheese'}) has confidence to other vegetables
+({'ham', 'oil'}) has confidence to whole milk
+({'ice cream', 'UHT-milk'}) has confidence to soda
+({'bottled water', 'frozen vegetables'}) has confidence to whole milk
+({'pastry', 'cake bar'}) has confidence to whole milk
+({'frankfurter', 'oil'}) has confidence to whole milk
+({'yogurt', 'mustard'}) has confidence to whole milk
+({'flour', 'berries'}) has confidence to whole milk
+({'candy', 'bottled beer'}) has confidence to soda
+({'butter', 'frankfurter'}) has confidence to whole milk
+({'butter milk', 'candy'}) has confidence to other vegetables
+({'pickled vegetables', 'misc. beverages'}) has confidence to whole milk
+({'flour', 'hard cheese'}) has confidence to other vegetables
+({'bottled water', 'hamburger meat'}) has confidence to whole milk
+({'margarine', 'grapes'}) has confidence to other vegetables
+({'dishes', 'hamburger meat'}) has confidence to other vegetables
+({'cream cheese', 'curd'}) has confidence to other vegetables
+({'flour', 'UHT-milk'}) has confidence to other vegetables
+({'butter', 'root vegetables'}) has confidence to whole milk
+({'hamburger meat', 'chicken'}) has confidence to other vegetables
+({'curd', 'cat food'}) has confidence to whole milk
+({'cat food', 'semi-finished bread'}) has confidence to whole milk
+({'butter milk', 'oil'}) has confidence to whole milk
+({'butter milk', 'candy'}) has confidence to yogurt
+({'detergent', 'sugar'}) has confidence to whole milk
+({'sugar', 'butter milk'}) has confidence to other vegetables
+({'waffles', 'chicken'}) has confidence to whole milk
+({'salty snack', 'chicken'}) has confidence to whole milk
+({'herbs', 'pip fruit'}) has confidence to whole milk
+({'yogurt', 'pip fruit'}) has confidence to whole milk
+({'soft cheese', 'chicken'}) has confidence to other vegetables
+({'sugar', 'pastry'}) has confidence to whole milk
+({'herbs', 'tropical fruit'}) has confidence to root vegetables
+({'cat food', 'grapes'}) has confidence to other vegetables
+({'napkins', 'domestic eggs'}) has confidence to whole milk
+({'hard cheese', 'chicken'}) has confidence to yogurt
+({'detergent', 'cake bar'}) has confidence to whole milk
+({'pastry', 'tropical fruit'}) has confidence to whole milk
+({'dishes', 'tropical fruit'}) has confidence to whole milk
+({'candy', 'hygiene articles'}) has confidence to soda
+({'oil', 'other vegetables'}) has confidence to whole milk
+({'beef', 'processed cheese'}) has confidence to soda
+({'beef', 'bottled beer'}) has confidence to whole milk
+({'dishes', 'specialty bar'}) has confidence to whole milk
+({'yogurt', 'grapes'}) has confidence to other vegetables
+({'grapes', 'ham'}) has confidence to other vegetables
+({'sugar', 'other vegetables'}) has confidence to whole milk
+({'berries', 'frozen meals'}) has confidence to soda
+({'dessert', 'coffee'}) has confidence to whole milk
+({'butter', 'meat'}) has confidence to whole milk
+({'cream cheese', 'sugar'}) has confidence to other vegetables
+({'pasta', 'root vegetables'}) has confidence to whole milk
+({'hard cheese', 'butter milk'}) has confidence to yogurt
+({'domestic eggs', 'processed cheese'}) has confidence to whole milk
+({'detergent', 'root vegetables'}) has confidence to whole milk
+({'specialty chocolate', 'hamburger meat'}) has confidence to whole milk
+({'flour', 'pasta'}) has confidence to whole milk
+({'sugar', 'hygiene articles'}) has confidence to whole milk
+({'herbs', 'processed cheese'}) has confidence to whole milk
+({'butter', 'processed cheese'}) has confidence to whole milk
+({'oil', 'beverages'}) has confidence to other vegetables
+({'cream cheese', 'salty snack'}) has confidence to other vegetables
+({'sliced cheese', 'hamburger meat'}) has confidence to other vegetables
+({'yogurt', 'herbs'}) has confidence to whole milk
+({'pasta', 'pip fruit'}) has confidence to whole milk
+({'domestic eggs', 'bottled beer'}) has confidence to other vegetables
+({'herbs', 'hamburger meat'}) has confidence to other vegetables
+({'flour', 'ham'}) has confidence to other vegetables
+({'hard cheese', 'dessert'}) has confidence to whole milk
+({'cat food', 'pork'}) has confidence to other vegetables
+({'butter', 'beef'}) has confidence to root vegetables
+({'semi-finished bread', 'chicken'}) has confidence to other vegetables
+({'butter', 'mustard'}) has confidence to whole milk
+({'cat food', 'fruit/vegetable juice'}) has confidence to whole milk
+({'butter', 'dishes'}) has confidence to other vegetables
+({'cat food', 'meat'}) has confidence to other vegetables
+({'frozen vegetables', 'meat'}) has confidence to other vegetables
+({'butter', 'frozen meals'}) has confidence to whole milk
+({'hamburger meat', 'root vegetables'}) has confidence to whole milk
+({'detergent', 'beverages'}) has confidence to whole milk
+({'semi-finished bread', 'sliced cheese'}) has confidence to other vegetables
+({'baking powder', 'mustard'}) has confidence to whole milk
+({'margarine', 'baking powder'}) has confidence to whole milk
+({'pork', 'fruit/vegetable juice'}) has confidence to other vegetables
+({'herbs', 'root vegetables'}) has confidence to whole milk
+({'butter', 'white bread'}) has confidence to other vegetables
+({'sliced cheese', 'coffee'}) has confidence to whole milk
+({'canned beer', 'pork'}) has confidence to soda
+({'waffles', 'pot plants'}) has confidence to whole milk
+({'tropical fruit', 'brown bread'}) has confidence to whole milk
+({'chewing gum', 'long life bakery product'}) has confidence to whole milk
+({'cream cheese', 'detergent'}) has confidence to whole milk
+({'sugar', 'whipped/sour cream'}) has confidence to other vegetables
+({'bottled beer', 'citrus fruit'}) has confidence to whole milk
+({'cat food', 'mustard'}) has confidence to whole milk
+({'hard cheese', 'salty snack'}) has confidence to other vegetables
+({'frozen meals', 'root vegetables'}) has confidence to whole milk
+({'hamburger meat', 'pip fruit'}) has confidence to whole milk
+({'dishes', 'pork'}) has confidence to other vegetables
+({'napkins', 'curd'}) has confidence to whole milk
+({'hard cheese', 'bottled water'}) has confidence to other vegetables
+({'bottled beer', 'pot plants'}) has confidence to whole milk
+({'herbs', 'butter'}) has confidence to other vegetables
+({'root vegetables', 'frozen meals'}) has confidence to other vegetables
+({'beef', 'hygiene articles'}) has confidence to whole milk
+({'margarine', 'ham'}) has confidence to other vegetables
+({'cream cheese', 'butter'}) has confidence to whole milk
+({'ice cream', 'onions'}) has confidence to other vegetables
+({'domestic eggs', 'onions'}) has confidence to whole milk
+({'tropical fruit', 'sausage'}) has confidence to whole milk
+({'whipped/sour cream', 'brown bread'}) has confidence to other vegetables
+({'specialty chocolate', 'mustard'}) has confidence to whole milk
+({'cream cheese', 'frozen meals'}) has confidence to whole milk
+({'domestic eggs', 'brown bread'}) has confidence to whole milk
+({'curd', 'waffles'}) has confidence to whole milk
+({'detergent', 'yogurt'}) has confidence to whole milk
+({'whipped/sour cream', 'margarine'}) has confidence to other vegetables
+({'cat food', 'salty snack'}) has confidence to other vegetables
+({'curd', 'cream cheese'}) has confidence to whole milk
+({'oil', 'fruit/vegetable juice'}) has confidence to other vegetables
+({'curd', 'tropical fruit'}) has confidence to yogurt
+({'candy', 'hamburger meat'}) has confidence to yogurt
+({'margarine', 'baking powder'}) has confidence to other vegetables
+({'sliced cheese', 'pip fruit'}) has confidence to whole milk
+({'flour', 'yogurt'}) has confidence to whole milk
+({'butter milk', 'chocolate'}) has confidence to whole milk
+({'whipped/sour cream', 'tropical fruit'}) has confidence to whole milk
+({'soft cheese', 'frankfurter'}) has confidence to other vegetables
+({'canned fish', 'long life bakery product'}) has confidence to other vegetables
+({'oil', 'sliced cheese'}) has confidence to other vegetables
+({'butter milk', 'berries'}) has confidence to yogurt
+({'hard cheese', 'butter'}) has confidence to whole milk
+({'semi-finished bread', 'beverages'}) has confidence to other vegetables
+({'cake bar', 'chocolate'}) has confidence to whole milk
+({'canned beer', 'tropical fruit'}) has confidence to soda
+({'cat food', 'whipped/sour cream'}) has confidence to other vegetables
+({'ice cream', 'herbs'}) has confidence to whole milk
+({'ice cream', 'baking powder'}) has confidence to other vegetables
+({'flour', 'hygiene articles'}) has confidence to whole milk
+({'sugar', 'frozen vegetables'}) has confidence to whole milk
+({'chocolate', 'berries'}) has confidence to whole milk
+({'herbs', 'shopping bags'}) has confidence to root vegetables
+({'herbs', 'tropical fruit'}) has confidence to other vegetables
+({'butter milk', 'chicken'}) has confidence to other vegetables
+({'curd', 'tropical fruit'}) has confidence to whole milk
+({'pastry', 'frozen meals'}) has confidence to whole milk
+({'napkins', 'hamburger meat'}) has confidence to other vegetables
+({'butter milk', 'meat'}) has confidence to whole milk
+({'cream cheese', 'pork'}) has confidence to whole milk
+({'cat food', 'sliced cheese'}) has confidence to other vegetables
+({'tropical fruit', 'root vegetables'}) has confidence to other vegetables
+({'margarine', 'frozen vegetables'}) has confidence to whole milk
+({'sugar', 'root vegetables'}) has confidence to other vegetables
+({'brown bread', 'processed cheese'}) has confidence to whole milk
+({'sliced cheese', 'other vegetables'}) has confidence to whole milk
+({'domestic eggs', 'hard cheese'}) has confidence to whole milk
+({'root vegetables', 'processed cheese'}) has confidence to whole milk
+({'cream cheese', 'chocolate'}) has confidence to whole milk
+({'dessert', 'root vegetables'}) has confidence to other vegetables
+({'butter', 'chicken'}) has confidence to other vegetables
+({'hard cheese', 'candy'}) has confidence to other vegetables
+({'sugar', 'frozen meals'}) has confidence to whole milk
+({'curd', 'citrus fruit'}) has confidence to whole milk
+({'flour', 'coffee'}) has confidence to whole milk
+({'sugar', 'frozen meals'}) has confidence to other vegetables
+({'detergent', 'pork'}) has confidence to whole milk
+({'whipped/sour cream', 'pot plants'}) has confidence to whole milk
+({'detergent', 'sliced cheese'}) has confidence to other vegetables
+({'long life bakery product', 'hamburger meat'}) has confidence to whole milk
+({'pasta', 'hygiene articles'}) has confidence to whole milk
+({'waffles', 'flour'}) has confidence to whole milk
+({'oil', 'meat'}) has confidence to whole milk
+({'hard cheese', 'chicken'}) has confidence to root vegetables
+({'specialty chocolate', 'hygiene articles'}) has confidence to whole milk
+({'hard cheese', 'butter milk'}) has confidence to whole milk
+({'candy', 'root vegetables'}) has confidence to whole milk
+({'yogurt', 'baking powder'}) has confidence to whole milk
+({'flour', 'rolls/buns'}) has confidence to other vegetables
