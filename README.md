@@ -1,4 +1,6 @@
 # 2023_hust_big_data_experiment
+2023年华中科技大学大数据专业大数据分析
+
 实验部分为wordcount(mapreduce),pagerank,apriori(pcy改进),k-means(聚类)
 课程大作业为两个推荐算法（基于用户、基于内容）
 
